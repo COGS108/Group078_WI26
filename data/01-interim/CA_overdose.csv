@@ -1,0 +1,1880 @@
+County,County Code,Year,Underlying Cause of death Code,Multiple Cause of death Code,Deaths,Population,Crude Rate
+"Alameda County, CA",6001,2018,X41,T43.6,38,1666753,2.3
+"Alameda County, CA",6001,2018,X41,X41,39,1666753,2.3
+"Alameda County, CA",6001,2018,X42,T40.2,14,1666753,Unreliable
+"Alameda County, CA",6001,2018,X42,T40.4,10,1666753,Unreliable
+"Alameda County, CA",6001,2018,X42,T40.5,31,1666753,1.9
+"Alameda County, CA",6001,2018,X42,X42,54,1666753,3.2
+"Alameda County, CA",6001,2018,X44,X44,75,1666753,4.5
+"Alameda County, CA",6001,2018,X64,X64,15,1666753,Unreliable
+"Alameda County, CA",6001,2019,X41,T43.6,37,1671329,2.2
+"Alameda County, CA",6001,2019,X41,X41,42,1671329,2.5
+"Alameda County, CA",6001,2019,X42,T40.4,41,1671329,2.5
+"Alameda County, CA",6001,2019,X42,T40.5,25,1671329,1.5
+"Alameda County, CA",6001,2019,X42,X42,67,1671329,4.0
+"Alameda County, CA",6001,2019,X44,T40.1,16,1671329,Unreliable
+"Alameda County, CA",6001,2019,X44,T40.2,18,1671329,Unreliable
+"Alameda County, CA",6001,2019,X44,T40.4,15,1671329,Unreliable
+"Alameda County, CA",6001,2019,X44,T40.5,18,1671329,Unreliable
+"Alameda County, CA",6001,2019,X44,T42.4,19,1671329,Unreliable
+"Alameda County, CA",6001,2019,X44,T43.6,22,1671329,1.3
+"Alameda County, CA",6001,2019,X44,X44,121,1671329,7.2
+"Alameda County, CA",6001,2019,X64,X64,13,1671329,Unreliable
+"Alameda County, CA",6001,2020,X41,T43.6,31,1662323,1.9
+"Alameda County, CA",6001,2020,X41,X41,37,1662323,2.2
+"Alameda County, CA",6001,2020,X42,T40.2,12,1662323,Unreliable
+"Alameda County, CA",6001,2020,X42,T40.4,60,1662323,3.6
+"Alameda County, CA",6001,2020,X42,T40.5,20,1662323,1.2
+"Alameda County, CA",6001,2020,X42,X42,84,1662323,5.1
+"Alameda County, CA",6001,2020,X44,T40.2,17,1662323,Unreliable
+"Alameda County, CA",6001,2020,X44,T40.4,60,1662323,3.6
+"Alameda County, CA",6001,2020,X44,T40.5,17,1662323,Unreliable
+"Alameda County, CA",6001,2020,X44,T42.4,25,1662323,1.5
+"Alameda County, CA",6001,2020,X44,T43.6,42,1662323,2.5
+"Alameda County, CA",6001,2020,X44,X44,191,1662323,11.5
+"Alameda County, CA",6001,2021,X41,T43.6,45,1648556,2.7
+"Alameda County, CA",6001,2021,X41,X41,48,1648556,2.9
+"Alameda County, CA",6001,2021,X42,T40.2,18,1648556,Unreliable
+"Alameda County, CA",6001,2021,X42,T40.4,86,1648556,5.2
+"Alameda County, CA",6001,2021,X42,T40.5,43,1648556,2.6
+"Alameda County, CA",6001,2021,X42,X42,120,1648556,7.3
+"Alameda County, CA",6001,2021,X44,T40.1,11,1648556,Unreliable
+"Alameda County, CA",6001,2021,X44,T40.2,18,1648556,Unreliable
+"Alameda County, CA",6001,2021,X44,T40.4,75,1648556,4.5
+"Alameda County, CA",6001,2021,X44,T40.5,17,1648556,Unreliable
+"Alameda County, CA",6001,2021,X44,T42.4,20,1648556,1.2
+"Alameda County, CA",6001,2021,X44,T43.6,70,1648556,4.2
+"Alameda County, CA",6001,2021,X44,X44,148,1648556,9.0
+"Alameda County, CA",6001,2022,X41,T43.6,55,1628997,3.4
+"Alameda County, CA",6001,2022,X41,X41,55,1628997,3.4
+"Alameda County, CA",6001,2022,X42,T40.1,19,1628997,Unreliable
+"Alameda County, CA",6001,2022,X42,T40.2,13,1628997,Unreliable
+"Alameda County, CA",6001,2022,X42,T40.4,87,1628997,5.3
+"Alameda County, CA",6001,2022,X42,T40.5,53,1628997,3.3
+"Alameda County, CA",6001,2022,X42,X42,123,1628997,7.6
+"Alameda County, CA",6001,2022,X44,T40.1,17,1628997,Unreliable
+"Alameda County, CA",6001,2022,X44,T40.2,18,1628997,Unreliable
+"Alameda County, CA",6001,2022,X44,T40.4,109,1628997,6.7
+"Alameda County, CA",6001,2022,X44,T40.5,20,1628997,1.2
+"Alameda County, CA",6001,2022,X44,T42.4,11,1628997,Unreliable
+"Alameda County, CA",6001,2022,X44,T43.6,114,1628997,7.0
+"Alameda County, CA",6001,2022,X44,X44,135,1628997,8.3
+"Alameda County, CA",6001,2023,X41,T43.6,46,1622188,2.8
+"Alameda County, CA",6001,2023,X41,X41,49,1622188,3.0
+"Alameda County, CA",6001,2023,X42,T40.2,19,1622188,Unreliable
+"Alameda County, CA",6001,2023,X42,T40.4,136,1622188,8.4
+"Alameda County, CA",6001,2023,X42,T40.5,85,1622188,5.2
+"Alameda County, CA",6001,2023,X42,X42,173,1622188,10.7
+"Alameda County, CA",6001,2023,X44,T40.2,18,1622188,Unreliable
+"Alameda County, CA",6001,2023,X44,T40.4,147,1622188,9.1
+"Alameda County, CA",6001,2023,X44,T40.5,36,1622188,2.2
+"Alameda County, CA",6001,2023,X44,T42.4,20,1622188,1.2
+"Alameda County, CA",6001,2023,X44,T43.6,140,1622188,8.6
+"Alameda County, CA",6001,2023,X44,X44,171,1622188,10.5
+"Alameda County, CA",6001,2023,X64,X64,12,1622188,Unreliable
+"Butte County, CA",6007,2018,X41,T43.6,15,231256,Unreliable
+"Butte County, CA",6007,2018,X41,X41,18,231256,Unreliable
+"Butte County, CA",6007,2018,X42,T40.2,11,231256,Unreliable
+"Butte County, CA",6007,2018,X42,X42,14,231256,Unreliable
+"Butte County, CA",6007,2018,X44,X44,16,231256,Unreliable
+"Butte County, CA",6007,2019,X41,T43.6,29,219186,13.2
+"Butte County, CA",6007,2019,X41,X41,33,219186,15.1
+"Butte County, CA",6007,2019,X44,X44,15,219186,Unreliable
+"Butte County, CA",6007,2020,X41,T43.6,36,212744,16.9
+"Butte County, CA",6007,2020,X41,X41,37,212744,17.4
+"Butte County, CA",6007,2020,X42,X42,12,212744,Unreliable
+"Butte County, CA",6007,2020,X44,T40.1,10,212744,Unreliable
+"Butte County, CA",6007,2020,X44,T43.6,15,212744,Unreliable
+"Butte County, CA",6007,2020,X44,X44,18,212744,Unreliable
+"Butte County, CA",6007,2021,X41,T43.6,51,208309,24.5
+"Butte County, CA",6007,2021,X41,X41,53,208309,25.4
+"Butte County, CA",6007,2021,X42,T40.4,18,208309,Unreliable
+"Butte County, CA",6007,2021,X42,X42,24,208309,11.5
+"Butte County, CA",6007,2021,X44,T40.1,10,208309,Unreliable
+"Butte County, CA",6007,2021,X44,T40.2,13,208309,Unreliable
+"Butte County, CA",6007,2021,X44,T40.4,26,208309,12.5
+"Butte County, CA",6007,2021,X44,T43.6,34,208309,16.3
+"Butte County, CA",6007,2021,X44,X44,40,208309,19.2
+"Butte County, CA",6007,2022,X41,T43.6,37,207303,17.8
+"Butte County, CA",6007,2022,X41,X41,38,207303,18.3
+"Butte County, CA",6007,2022,X42,T40.4,10,207303,Unreliable
+"Butte County, CA",6007,2022,X42,X42,15,207303,Unreliable
+"Butte County, CA",6007,2022,X44,T40.2,14,207303,Unreliable
+"Butte County, CA",6007,2022,X44,T40.4,44,207303,21.2
+"Butte County, CA",6007,2022,X44,T42.4,10,207303,Unreliable
+"Butte County, CA",6007,2022,X44,T43.6,45,207303,21.7
+"Butte County, CA",6007,2022,X44,X44,57,207303,27.5
+"Butte County, CA",6007,2023,X41,T43.6,43,207172,20.8
+"Butte County, CA",6007,2023,X41,X41,45,207172,21.7
+"Butte County, CA",6007,2023,X42,T40.4,18,207172,Unreliable
+"Butte County, CA",6007,2023,X42,X42,26,207172,12.5
+"Butte County, CA",6007,2023,X44,T40.2,11,207172,Unreliable
+"Butte County, CA",6007,2023,X44,T40.4,53,207172,25.6
+"Butte County, CA",6007,2023,X44,T43.6,54,207172,26.1
+"Butte County, CA",6007,2023,X44,X44,62,207172,29.9
+"Contra Costa County, CA",6013,2018,X41,T43.6,36,1150215,3.1
+"Contra Costa County, CA",6013,2018,X41,X41,38,1150215,3.3
+"Contra Costa County, CA",6013,2018,X42,T40.5,11,1150215,Unreliable
+"Contra Costa County, CA",6013,2018,X42,X42,30,1150215,2.6
+"Contra Costa County, CA",6013,2018,X44,T40.1,10,1150215,Unreliable
+"Contra Costa County, CA",6013,2018,X44,T40.2,24,1150215,2.1
+"Contra Costa County, CA",6013,2018,X44,T40.4,20,1150215,1.7
+"Contra Costa County, CA",6013,2018,X44,T40.5,12,1150215,Unreliable
+"Contra Costa County, CA",6013,2018,X44,T42.4,13,1150215,Unreliable
+"Contra Costa County, CA",6013,2018,X44,T43.6,32,1150215,2.8
+"Contra Costa County, CA",6013,2018,X44,X44,74,1150215,6.4
+"Contra Costa County, CA",6013,2018,X64,X64,13,1150215,Unreliable
+"Contra Costa County, CA",6013,2019,X41,T43.6,27,1153526,2.3
+"Contra Costa County, CA",6013,2019,X41,X41,27,1153526,2.3
+"Contra Costa County, CA",6013,2019,X42,T40.2,12,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X42,T40.4,20,1153526,1.7
+"Contra Costa County, CA",6013,2019,X42,T40.5,11,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X42,X42,43,1153526,3.7
+"Contra Costa County, CA",6013,2019,X44,T40.1,19,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X44,T40.2,12,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X44,T40.4,30,1153526,2.6
+"Contra Costa County, CA",6013,2019,X44,T40.5,13,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X44,T42.4,13,1153526,Unreliable
+"Contra Costa County, CA",6013,2019,X44,T43.6,44,1153526,3.8
+"Contra Costa County, CA",6013,2019,X44,X44,76,1153526,6.6
+"Contra Costa County, CA",6013,2020,X41,T43.6,44,1152333,3.8
+"Contra Costa County, CA",6013,2020,X41,X41,45,1152333,3.9
+"Contra Costa County, CA",6013,2020,X42,T40.1,11,1152333,Unreliable
+"Contra Costa County, CA",6013,2020,X42,T40.4,50,1152333,4.3
+"Contra Costa County, CA",6013,2020,X42,T40.5,20,1152333,1.7
+"Contra Costa County, CA",6013,2020,X42,X42,72,1152333,6.2
+"Contra Costa County, CA",6013,2020,X44,T40.2,14,1152333,Unreliable
+"Contra Costa County, CA",6013,2020,X44,T40.4,57,1152333,4.9
+"Contra Costa County, CA",6013,2020,X44,T40.5,12,1152333,Unreliable
+"Contra Costa County, CA",6013,2020,X44,T42.4,10,1152333,Unreliable
+"Contra Costa County, CA",6013,2020,X44,T43.6,53,1152333,4.6
+"Contra Costa County, CA",6013,2020,X44,X44,106,1152333,9.2
+"Contra Costa County, CA",6013,2021,X41,T43.6,33,1161413,2.8
+"Contra Costa County, CA",6013,2021,X41,X41,33,1161413,2.8
+"Contra Costa County, CA",6013,2021,X42,T40.4,56,1161413,4.8
+"Contra Costa County, CA",6013,2021,X42,T40.5,17,1161413,Unreliable
+"Contra Costa County, CA",6013,2021,X42,X42,67,1161413,5.8
+"Contra Costa County, CA",6013,2021,X44,T40.4,101,1161413,8.7
+"Contra Costa County, CA",6013,2021,X44,T40.5,23,1161413,2.0
+"Contra Costa County, CA",6013,2021,X44,T42.4,13,1161413,Unreliable
+"Contra Costa County, CA",6013,2021,X44,T43.6,101,1161413,8.7
+"Contra Costa County, CA",6013,2021,X44,X44,151,1161413,13.0
+"Contra Costa County, CA",6013,2022,X41,T43.6,38,1156966,3.3
+"Contra Costa County, CA",6013,2022,X41,X41,40,1156966,3.5
+"Contra Costa County, CA",6013,2022,X42,T40.4,65,1156966,5.6
+"Contra Costa County, CA",6013,2022,X42,T40.5,33,1156966,2.9
+"Contra Costa County, CA",6013,2022,X42,X42,80,1156966,6.9
+"Contra Costa County, CA",6013,2022,X44,T40.4,88,1156966,7.6
+"Contra Costa County, CA",6013,2022,X44,T40.5,12,1156966,Unreliable
+"Contra Costa County, CA",6013,2022,X44,T43.6,87,1156966,7.5
+"Contra Costa County, CA",6013,2022,X44,X44,112,1156966,9.7
+"Contra Costa County, CA",6013,2022,X64,X64,11,1156966,Unreliable
+"Contra Costa County, CA",6013,2023,X41,T43.6,43,1155025,3.7
+"Contra Costa County, CA",6013,2023,X41,X41,45,1155025,3.9
+"Contra Costa County, CA",6013,2023,X42,T40.4,62,1155025,5.4
+"Contra Costa County, CA",6013,2023,X42,T40.5,25,1155025,2.2
+"Contra Costa County, CA",6013,2023,X42,X42,79,1155025,6.8
+"Contra Costa County, CA",6013,2023,X44,T40.2,10,1155025,Unreliable
+"Contra Costa County, CA",6013,2023,X44,T40.4,97,1155025,8.4
+"Contra Costa County, CA",6013,2023,X44,T40.5,19,1155025,Unreliable
+"Contra Costa County, CA",6013,2023,X44,T42.4,11,1155025,Unreliable
+"Contra Costa County, CA",6013,2023,X44,T43.6,96,1155025,8.3
+"Contra Costa County, CA",6013,2023,X44,X44,128,1155025,11.1
+"Contra Costa County, CA",6013,2023,X64,X64,14,1155025,Unreliable
+"Del Norte County, CA",6015,2022,X44,T40.4,12,27082,Unreliable
+"Del Norte County, CA",6015,2022,X44,T43.6,11,27082,Unreliable
+"Del Norte County, CA",6015,2022,X44,X44,14,27082,Unreliable
+"Del Norte County, CA",6015,2023,X41,X41,10,26589,Unreliable
+"Del Norte County, CA",6015,2023,X44,T40.4,10,26589,Unreliable
+"Del Norte County, CA",6015,2023,X44,T43.6,10,26589,Unreliable
+"Del Norte County, CA",6015,2023,X44,X44,10,26589,Unreliable
+"El Dorado County, CA",6017,2018,X44,X44,24,190678,12.6
+"El Dorado County, CA",6017,2019,X44,X44,16,192843,Unreliable
+"El Dorado County, CA",6017,2020,X41,X41,10,192925,Unreliable
+"El Dorado County, CA",6017,2020,X44,T40.2,10,192925,Unreliable
+"El Dorado County, CA",6017,2020,X44,T43.6,12,192925,Unreliable
+"El Dorado County, CA",6017,2020,X44,X44,19,192925,Unreliable
+"El Dorado County, CA",6017,2021,X42,T40.4,10,193221,Unreliable
+"El Dorado County, CA",6017,2021,X42,X42,10,193221,Unreliable
+"El Dorado County, CA",6017,2021,X44,T40.2,13,193221,Unreliable
+"El Dorado County, CA",6017,2021,X44,T40.4,18,193221,Unreliable
+"El Dorado County, CA",6017,2021,X44,T43.6,12,193221,Unreliable
+"El Dorado County, CA",6017,2021,X44,X44,30,193221,15.5
+"El Dorado County, CA",6017,2022,X42,T40.4,12,192646,Unreliable
+"El Dorado County, CA",6017,2022,X42,X42,15,192646,Unreliable
+"El Dorado County, CA",6017,2022,X44,T40.4,16,192646,Unreliable
+"El Dorado County, CA",6017,2022,X44,T43.6,16,192646,Unreliable
+"El Dorado County, CA",6017,2022,X44,X44,23,192646,11.9
+"El Dorado County, CA",6017,2023,X44,T40.4,19,192215,Unreliable
+"El Dorado County, CA",6017,2023,X44,T43.6,17,192215,Unreliable
+"El Dorado County, CA",6017,2023,X44,X44,26,192215,13.5
+"Fresno County, CA",6019,2018,X41,T43.6,50,994400,5.0
+"Fresno County, CA",6019,2018,X41,X41,56,994400,5.6
+"Fresno County, CA",6019,2018,X42,T40.2,13,994400,Unreliable
+"Fresno County, CA",6019,2018,X42,X42,21,994400,2.1
+"Fresno County, CA",6019,2018,X44,X44,23,994400,2.3
+"Fresno County, CA",6019,2019,X41,T43.6,54,999101,5.4
+"Fresno County, CA",6019,2019,X41,X41,60,999101,6.0
+"Fresno County, CA",6019,2019,X42,X42,28,999101,2.8
+"Fresno County, CA",6019,2019,X44,T43.6,13,999101,Unreliable
+"Fresno County, CA",6019,2019,X44,X44,32,999101,3.2
+"Fresno County, CA",6019,2020,X41,T43.6,72,1000918,7.2
+"Fresno County, CA",6019,2020,X41,X41,76,1000918,7.6
+"Fresno County, CA",6019,2020,X42,T40.4,27,1000918,2.7
+"Fresno County, CA",6019,2020,X42,T40.5,13,1000918,Unreliable
+"Fresno County, CA",6019,2020,X42,X42,47,1000918,4.7
+"Fresno County, CA",6019,2020,X44,T40.4,15,1000918,Unreliable
+"Fresno County, CA",6019,2020,X44,T43.6,21,1000918,2.1
+"Fresno County, CA",6019,2020,X44,X44,33,1000918,3.3
+"Fresno County, CA",6019,2021,X41,T43.6,85,1013581,8.4
+"Fresno County, CA",6019,2021,X41,X41,87,1013581,8.6
+"Fresno County, CA",6019,2021,X42,T40.2,10,1013581,Unreliable
+"Fresno County, CA",6019,2021,X42,T40.4,45,1013581,4.4
+"Fresno County, CA",6019,2021,X42,T40.5,12,1013581,Unreliable
+"Fresno County, CA",6019,2021,X42,X42,66,1013581,6.5
+"Fresno County, CA",6019,2021,X44,T40.4,23,1013581,2.3
+"Fresno County, CA",6019,2021,X44,T43.6,29,1013581,2.9
+"Fresno County, CA",6019,2021,X44,X44,39,1013581,3.8
+"Fresno County, CA",6019,2022,X41,T43.6,61,1015190,6.0
+"Fresno County, CA",6019,2022,X41,X41,62,1015190,6.1
+"Fresno County, CA",6019,2022,X42,T40.2,14,1015190,Unreliable
+"Fresno County, CA",6019,2022,X42,T40.4,61,1015190,6.0
+"Fresno County, CA",6019,2022,X42,T40.5,12,1015190,Unreliable
+"Fresno County, CA",6019,2022,X42,X42,88,1015190,8.7
+"Fresno County, CA",6019,2022,X44,T40.4,44,1015190,4.3
+"Fresno County, CA",6019,2022,X44,T42.4,13,1015190,Unreliable
+"Fresno County, CA",6019,2022,X44,T43.6,39,1015190,3.8
+"Fresno County, CA",6019,2022,X44,X44,62,1015190,6.1
+"Fresno County, CA",6019,2023,X41,T43.6,80,1017162,7.9
+"Fresno County, CA",6019,2023,X41,X41,80,1017162,7.9
+"Fresno County, CA",6019,2023,X42,T40.4,42,1017162,4.1
+"Fresno County, CA",6019,2023,X42,T40.5,18,1017162,Unreliable
+"Fresno County, CA",6019,2023,X42,X42,67,1017162,6.6
+"Fresno County, CA",6019,2023,X44,T40.2,13,1017162,Unreliable
+"Fresno County, CA",6019,2023,X44,T40.4,61,1017162,6.0
+"Fresno County, CA",6019,2023,X44,T43.6,68,1017162,6.7
+"Fresno County, CA",6019,2023,X44,X44,81,1017162,8.0
+"Humboldt County, CA",6023,2018,X44,X44,12,136373,Unreliable
+"Humboldt County, CA",6023,2019,X41,X41,10,135558,Unreliable
+"Humboldt County, CA",6023,2019,X42,X42,14,135558,Unreliable
+"Humboldt County, CA",6023,2020,X41,T43.6,11,134977,Unreliable
+"Humboldt County, CA",6023,2020,X41,X41,12,134977,Unreliable
+"Humboldt County, CA",6023,2020,X44,X44,17,134977,Unreliable
+"Humboldt County, CA",6023,2021,X42,T40.2,10,136310,Unreliable
+"Humboldt County, CA",6023,2021,X42,T40.4,26,136310,19.1
+"Humboldt County, CA",6023,2021,X42,T43.6,10,136310,Unreliable
+"Humboldt County, CA",6023,2021,X42,X42,29,136310,21.3
+"Humboldt County, CA",6023,2021,X44,T40.4,12,136310,Unreliable
+"Humboldt County, CA",6023,2021,X44,T43.6,12,136310,Unreliable
+"Humboldt County, CA",6023,2021,X44,X44,19,136310,Unreliable
+"Humboldt County, CA",6023,2022,X42,T40.4,37,135010,27.4
+"Humboldt County, CA",6023,2022,X42,X42,42,135010,31.1
+"Humboldt County, CA",6023,2022,X44,T40.4,31,135010,23.0
+"Humboldt County, CA",6023,2022,X44,T43.6,27,135010,20.0
+"Humboldt County, CA",6023,2022,X44,X44,36,135010,26.7
+"Humboldt County, CA",6023,2023,X42,T40.4,42,133985,31.3
+"Humboldt County, CA",6023,2023,X42,X42,46,133985,34.3
+"Humboldt County, CA",6023,2023,X44,T40.4,16,133985,Unreliable
+"Humboldt County, CA",6023,2023,X44,T43.6,13,133985,Unreliable
+"Humboldt County, CA",6023,2023,X44,X44,20,133985,14.9
+"Imperial County, CA",6025,2018,X41,T43.6,15,181827,Unreliable
+"Imperial County, CA",6025,2018,X41,X41,15,181827,Unreliable
+"Imperial County, CA",6025,2018,X44,X44,19,181827,Unreliable
+"Imperial County, CA",6025,2019,X44,X44,15,181215,Unreliable
+"Imperial County, CA",6025,2020,X41,T43.6,28,180267,15.5
+"Imperial County, CA",6025,2020,X41,X41,30,180267,16.6
+"Imperial County, CA",6025,2020,X44,T40.4,17,180267,Unreliable
+"Imperial County, CA",6025,2020,X44,T43.6,22,180267,12.2
+"Imperial County, CA",6025,2020,X44,X44,24,180267,13.3
+"Imperial County, CA",6025,2021,X44,T40.4,12,179851,Unreliable
+"Imperial County, CA",6025,2021,X44,T43.6,13,179851,Unreliable
+"Imperial County, CA",6025,2021,X44,X44,13,179851,Unreliable
+"Imperial County, CA",6025,2022,X42,X42,10,178713,Unreliable
+"Imperial County, CA",6025,2022,X44,T40.4,15,178713,Unreliable
+"Imperial County, CA",6025,2022,X44,T43.6,15,178713,Unreliable
+"Imperial County, CA",6025,2022,X44,X44,16,178713,Unreliable
+"Imperial County, CA",6025,2023,X44,X44,10,179057,Unreliable
+"Kern County, CA",6029,2018,X41,T43.6,92,896764,10.3
+"Kern County, CA",6029,2018,X41,X41,93,896764,10.4
+"Kern County, CA",6029,2018,X42,T40.2,15,896764,Unreliable
+"Kern County, CA",6029,2018,X42,T40.4,19,896764,Unreliable
+"Kern County, CA",6029,2018,X42,T40.5,12,896764,Unreliable
+"Kern County, CA",6029,2018,X42,X42,46,896764,5.1
+"Kern County, CA",6029,2018,X44,T40.1,10,896764,Unreliable
+"Kern County, CA",6029,2018,X44,T40.2,27,896764,3.0
+"Kern County, CA",6029,2018,X44,T40.4,15,896764,Unreliable
+"Kern County, CA",6029,2018,X44,T43.6,45,896764,5.0
+"Kern County, CA",6029,2018,X44,X44,72,896764,8.0
+"Kern County, CA",6029,2019,X41,T43.6,108,900202,12.0
+"Kern County, CA",6029,2019,X41,X41,110,900202,12.2
+"Kern County, CA",6029,2019,X42,T40.1,13,900202,Unreliable
+"Kern County, CA",6029,2019,X42,T40.2,14,900202,Unreliable
+"Kern County, CA",6029,2019,X42,T40.4,31,900202,3.4
+"Kern County, CA",6029,2019,X42,T40.5,11,900202,Unreliable
+"Kern County, CA",6029,2019,X42,X42,59,900202,6.6
+"Kern County, CA",6029,2019,X44,T40.1,23,900202,2.6
+"Kern County, CA",6029,2019,X44,T40.2,14,900202,Unreliable
+"Kern County, CA",6029,2019,X44,T40.4,20,900202,2.2
+"Kern County, CA",6029,2019,X44,T43.6,50,900202,5.6
+"Kern County, CA",6029,2019,X44,X44,75,900202,8.3
+"Kern County, CA",6029,2020,X41,T43.6,107,901362,11.9
+"Kern County, CA",6029,2020,X41,X41,110,901362,12.2
+"Kern County, CA",6029,2020,X42,T40.1,12,901362,Unreliable
+"Kern County, CA",6029,2020,X42,T40.2,17,901362,Unreliable
+"Kern County, CA",6029,2020,X42,T40.3,12,901362,Unreliable
+"Kern County, CA",6029,2020,X42,T40.4,73,901362,8.1
+"Kern County, CA",6029,2020,X42,T40.5,13,901362,Unreliable
+"Kern County, CA",6029,2020,X42,X42,101,901362,11.2
+"Kern County, CA",6029,2020,X44,T40.1,34,901362,3.8
+"Kern County, CA",6029,2020,X44,T40.2,38,901362,4.2
+"Kern County, CA",6029,2020,X44,T40.4,64,901362,7.1
+"Kern County, CA",6029,2020,X44,T42.4,11,901362,Unreliable
+"Kern County, CA",6029,2020,X44,T43.6,102,901362,11.3
+"Kern County, CA",6029,2020,X44,X44,137,901362,15.2
+"Kern County, CA",6029,2021,X41,T43.6,166,917673,18.1
+"Kern County, CA",6029,2021,X41,X41,169,917673,18.4
+"Kern County, CA",6029,2021,X42,T40.2,20,917673,2.2
+"Kern County, CA",6029,2021,X42,T40.4,86,917673,9.4
+"Kern County, CA",6029,2021,X42,T40.5,23,917673,2.5
+"Kern County, CA",6029,2021,X42,X42,110,917673,12.0
+"Kern County, CA",6029,2021,X44,T40.1,23,917673,2.5
+"Kern County, CA",6029,2021,X44,T40.2,41,917673,4.5
+"Kern County, CA",6029,2021,X44,T40.4,135,917673,14.7
+"Kern County, CA",6029,2021,X44,T40.5,11,917673,Unreliable
+"Kern County, CA",6029,2021,X44,T42.4,12,917673,Unreliable
+"Kern County, CA",6029,2021,X44,T43.6,159,917673,17.3
+"Kern County, CA",6029,2021,X44,X44,198,917673,21.6
+"Kern County, CA",6029,2022,X41,T43.6,145,916108,15.8
+"Kern County, CA",6029,2022,X41,X41,149,916108,16.3
+"Kern County, CA",6029,2022,X42,T40.2,13,916108,Unreliable
+"Kern County, CA",6029,2022,X42,T40.4,99,916108,10.8
+"Kern County, CA",6029,2022,X42,T40.5,22,916108,2.4
+"Kern County, CA",6029,2022,X42,X42,120,916108,13.1
+"Kern County, CA",6029,2022,X44,T40.1,10,916108,Unreliable
+"Kern County, CA",6029,2022,X44,T40.2,32,916108,3.5
+"Kern County, CA",6029,2022,X44,T40.4,156,916108,17.0
+"Kern County, CA",6029,2022,X44,T40.5,14,916108,Unreliable
+"Kern County, CA",6029,2022,X44,T42.4,19,916108,Unreliable
+"Kern County, CA",6029,2022,X44,T43.6,171,916108,18.7
+"Kern County, CA",6029,2022,X44,X44,208,916108,22.7
+"Kern County, CA",6029,2023,X41,T43.6,115,913820,12.6
+"Kern County, CA",6029,2023,X41,X41,120,913820,13.1
+"Kern County, CA",6029,2023,X42,T40.2,15,913820,Unreliable
+"Kern County, CA",6029,2023,X42,T40.4,116,913820,12.7
+"Kern County, CA",6029,2023,X42,T40.5,33,913820,3.6
+"Kern County, CA",6029,2023,X42,X42,143,913820,15.6
+"Kern County, CA",6029,2023,X44,T40.2,18,913820,Unreliable
+"Kern County, CA",6029,2023,X44,T40.4,172,913820,18.8
+"Kern County, CA",6029,2023,X44,T40.5,14,913820,Unreliable
+"Kern County, CA",6029,2023,X44,T42.4,10,913820,Unreliable
+"Kern County, CA",6029,2023,X44,T43.6,180,913820,19.7
+"Kern County, CA",6029,2023,X44,X44,217,913820,23.7
+"Kings County, CA",6031,2019,X41,T43.6,13,152940,Unreliable
+"Kings County, CA",6031,2019,X41,X41,13,152940,Unreliable
+"Kings County, CA",6031,2021,X41,T43.6,10,153443,Unreliable
+"Kings County, CA",6031,2021,X41,X41,10,153443,Unreliable
+"Kings County, CA",6031,2021,X42,X42,10,153443,Unreliable
+"Kings County, CA",6031,2022,X41,X41,10,152981,Unreliable
+"Kings County, CA",6031,2023,X41,T43.6,10,152682,Unreliable
+"Kings County, CA",6031,2023,X41,X41,10,152682,Unreliable
+"Lake County, CA",6033,2018,X41,T43.6,17,64382,Unreliable
+"Lake County, CA",6033,2018,X41,X41,17,64382,Unreliable
+"Lake County, CA",6033,2018,X44,T40.2,10,64382,Unreliable
+"Lake County, CA",6033,2018,X44,X44,18,64382,Unreliable
+"Lake County, CA",6033,2019,X41,T43.6,18,64386,Unreliable
+"Lake County, CA",6033,2019,X41,X41,19,64386,Unreliable
+"Lake County, CA",6033,2019,X44,T43.6,15,64386,Unreliable
+"Lake County, CA",6033,2019,X44,X44,20,64386,31.1
+"Lake County, CA",6033,2020,X41,T43.6,21,64479,32.6
+"Lake County, CA",6033,2020,X41,X41,22,64479,34.1
+"Lake County, CA",6033,2020,X44,T43.6,17,64479,Unreliable
+"Lake County, CA",6033,2020,X44,X44,19,64479,Unreliable
+"Lake County, CA",6033,2021,X41,T43.6,24,68766,34.9
+"Lake County, CA",6033,2021,X41,X41,27,68766,39.3
+"Lake County, CA",6033,2021,X44,T40.2,10,68766,Unreliable
+"Lake County, CA",6033,2021,X44,T40.4,20,68766,29.1
+"Lake County, CA",6033,2021,X44,T43.6,21,68766,30.5
+"Lake County, CA",6033,2021,X44,X44,31,68766,45.1
+"Lake County, CA",6033,2022,X41,T43.6,16,68191,Unreliable
+"Lake County, CA",6033,2022,X41,X41,18,68191,Unreliable
+"Lake County, CA",6033,2022,X44,T40.2,16,68191,Unreliable
+"Lake County, CA",6033,2022,X44,T40.4,19,68191,Unreliable
+"Lake County, CA",6033,2022,X44,T43.6,18,68191,Unreliable
+"Lake County, CA",6033,2022,X44,X44,33,68191,48.4
+"Lake County, CA",6033,2023,X41,T43.6,18,67878,Unreliable
+"Lake County, CA",6033,2023,X41,X41,19,67878,Unreliable
+"Lake County, CA",6033,2023,X42,T40.4,10,67878,Unreliable
+"Lake County, CA",6033,2023,X42,X42,10,67878,Unreliable
+"Lake County, CA",6033,2023,X44,T40.4,16,67878,Unreliable
+"Lake County, CA",6033,2023,X44,T43.6,15,67878,Unreliable
+"Lake County, CA",6033,2023,X44,X44,18,67878,Unreliable
+"Lassen County, CA",6035,2023,X44,T40.4,10,28861,Unreliable
+"Lassen County, CA",6035,2023,X44,X44,10,28861,Unreliable
+"Los Angeles County, CA",6037,2018,X41,T42.4,10,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X41,T43.6,240,10105518,2.4
+"Los Angeles County, CA",6037,2018,X41,X41,260,10105518,2.6
+"Los Angeles County, CA",6037,2018,X42,T40.1,93,10105518,0.9
+"Los Angeles County, CA",6037,2018,X42,T40.2,77,10105518,0.8
+"Los Angeles County, CA",6037,2018,X42,T40.3,18,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X42,T40.4,127,10105518,1.3
+"Los Angeles County, CA",6037,2018,X42,T40.5,105,10105518,1.0
+"Los Angeles County, CA",6037,2018,X42,X42,310,10105518,3.1
+"Los Angeles County, CA",6037,2018,X44,T40.1,85,10105518,0.8
+"Los Angeles County, CA",6037,2018,X44,T40.2,85,10105518,0.8
+"Los Angeles County, CA",6037,2018,X44,T40.3,18,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X44,T40.4,89,10105518,0.9
+"Los Angeles County, CA",6037,2018,X44,T40.5,68,10105518,0.7
+"Los Angeles County, CA",6037,2018,X44,T42.4,52,10105518,0.5
+"Los Angeles County, CA",6037,2018,X44,T43.6,179,10105518,1.8
+"Los Angeles County, CA",6037,2018,X44,X44,311,10105518,3.1
+"Los Angeles County, CA",6037,2018,X61,X61,29,10105518,0.3
+"Los Angeles County, CA",6037,2018,X62,T40.2,12,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X62,X62,14,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X64,T40.2,10,10105518,Unreliable
+"Los Angeles County, CA",6037,2018,X64,X64,44,10105518,0.4
+"Los Angeles County, CA",6037,2019,X41,T42.4,13,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X41,T43.6,294,10039107,2.9
+"Los Angeles County, CA",6037,2019,X41,X41,322,10039107,3.2
+"Los Angeles County, CA",6037,2019,X42,T40.1,100,10039107,1.0
+"Los Angeles County, CA",6037,2019,X42,T40.2,59,10039107,0.6
+"Los Angeles County, CA",6037,2019,X42,T40.3,15,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X42,T40.4,239,10039107,2.4
+"Los Angeles County, CA",6037,2019,X42,T40.5,151,10039107,1.5
+"Los Angeles County, CA",6037,2019,X42,X42,434,10039107,4.3
+"Los Angeles County, CA",6037,2019,X44,T40.1,133,10039107,1.3
+"Los Angeles County, CA",6037,2019,X44,T40.2,79,10039107,0.8
+"Los Angeles County, CA",6037,2019,X44,T40.3,13,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X44,T40.4,169,10039107,1.7
+"Los Angeles County, CA",6037,2019,X44,T40.5,79,10039107,0.8
+"Los Angeles County, CA",6037,2019,X44,T42.4,91,10039107,0.9
+"Los Angeles County, CA",6037,2019,X44,T43.6,266,10039107,2.6
+"Los Angeles County, CA",6037,2019,X44,X44,409,10039107,4.1
+"Los Angeles County, CA",6037,2019,X61,T42.4,11,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X61,X61,27,10039107,0.3
+"Los Angeles County, CA",6037,2019,X64,T40.2,17,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X64,T42.4,15,10039107,Unreliable
+"Los Angeles County, CA",6037,2019,X64,X64,48,10039107,0.5
+"Los Angeles County, CA",6037,2020,X40,X40,11,9943046,Unreliable
+"Los Angeles County, CA",6037,2020,X41,T43.6,424,9943046,4.3
+"Los Angeles County, CA",6037,2020,X41,X41,444,9943046,4.5
+"Los Angeles County, CA",6037,2020,X42,T40.1,101,9943046,1.0
+"Los Angeles County, CA",6037,2020,X42,T40.2,49,9943046,0.5
+"Los Angeles County, CA",6037,2020,X42,T40.3,15,9943046,Unreliable
+"Los Angeles County, CA",6037,2020,X42,T40.4,477,9943046,4.8
+"Los Angeles County, CA",6037,2020,X42,T40.5,199,9943046,2.0
+"Los Angeles County, CA",6037,2020,X42,X42,661,9943046,6.6
+"Los Angeles County, CA",6037,2020,X44,T40.1,192,9943046,1.9
+"Los Angeles County, CA",6037,2020,X44,T40.2,91,9943046,0.9
+"Los Angeles County, CA",6037,2020,X44,T40.3,27,9943046,0.3
+"Los Angeles County, CA",6037,2020,X44,T40.4,513,9943046,5.2
+"Los Angeles County, CA",6037,2020,X44,T40.5,121,9943046,1.2
+"Los Angeles County, CA",6037,2020,X44,T42.4,168,9943046,1.7
+"Los Angeles County, CA",6037,2020,X44,T43.6,591,9943046,5.9
+"Los Angeles County, CA",6037,2020,X44,X44,811,9943046,8.2
+"Los Angeles County, CA",6037,2020,X61,X61,20,9943046,0.2
+"Los Angeles County, CA",6037,2020,X62,X62,11,9943046,Unreliable
+"Los Angeles County, CA",6037,2020,X64,T40.2,12,9943046,Unreliable
+"Los Angeles County, CA",6037,2020,X64,T42.4,16,9943046,Unreliable
+"Los Angeles County, CA",6037,2020,X64,X64,46,9943046,0.5
+"Los Angeles County, CA",6037,2021,X40,X40,15,9829544,Unreliable
+"Los Angeles County, CA",6037,2021,X41,T42.4,14,9829544,Unreliable
+"Los Angeles County, CA",6037,2021,X41,T43.6,431,9829544,4.4
+"Los Angeles County, CA",6037,2021,X41,X41,448,9829544,4.6
+"Los Angeles County, CA",6037,2021,X42,T40.1,63,9829544,0.6
+"Los Angeles County, CA",6037,2021,X42,T40.2,59,9829544,0.6
+"Los Angeles County, CA",6037,2021,X42,T40.4,576,9829544,5.9
+"Los Angeles County, CA",6037,2021,X42,T40.5,210,9829544,2.1
+"Los Angeles County, CA",6037,2021,X42,X42,718,9829544,7.3
+"Los Angeles County, CA",6037,2021,X44,T40.1,127,9829544,1.3
+"Los Angeles County, CA",6037,2021,X44,T40.2,74,9829544,0.8
+"Los Angeles County, CA",6037,2021,X44,T40.3,17,9829544,Unreliable
+"Los Angeles County, CA",6037,2021,X44,T40.4,835,9829544,8.5
+"Los Angeles County, CA",6037,2021,X44,T40.5,164,9829544,1.7
+"Los Angeles County, CA",6037,2021,X44,T42.4,195,9829544,2.0
+"Los Angeles County, CA",6037,2021,X44,T43.6,839,9829544,8.5
+"Los Angeles County, CA",6037,2021,X44,X44,1050,9829544,10.7
+"Los Angeles County, CA",6037,2021,X61,X61,24,9829544,0.2
+"Los Angeles County, CA",6037,2021,X64,T42.4,14,9829544,Unreliable
+"Los Angeles County, CA",6037,2021,X64,X64,50,9829544,0.5
+"Los Angeles County, CA",6037,2022,X40,X40,14,9721138,Unreliable
+"Los Angeles County, CA",6037,2022,X41,T42.4,16,9721138,Unreliable
+"Los Angeles County, CA",6037,2022,X41,T43.6,461,9721138,4.7
+"Los Angeles County, CA",6037,2022,X41,X41,475,9721138,4.9
+"Los Angeles County, CA",6037,2022,X42,T40.1,63,9721138,0.6
+"Los Angeles County, CA",6037,2022,X42,T40.2,44,9721138,0.5
+"Los Angeles County, CA",6037,2022,X42,T40.4,623,9721138,6.4
+"Los Angeles County, CA",6037,2022,X42,T40.5,244,9721138,2.5
+"Los Angeles County, CA",6037,2022,X42,X42,755,9721138,7.8
+"Los Angeles County, CA",6037,2022,X44,T40.1,99,9721138,1.0
+"Los Angeles County, CA",6037,2022,X44,T40.2,82,9721138,0.8
+"Los Angeles County, CA",6037,2022,X44,T40.3,10,9721138,Unreliable
+"Los Angeles County, CA",6037,2022,X44,T40.4,896,9721138,9.2
+"Los Angeles County, CA",6037,2022,X44,T40.5,154,9721138,1.6
+"Los Angeles County, CA",6037,2022,X44,T42.4,147,9721138,1.5
+"Los Angeles County, CA",6037,2022,X44,T43.6,872,9721138,9.0
+"Los Angeles County, CA",6037,2022,X44,X44,1096,9721138,11.3
+"Los Angeles County, CA",6037,2022,X61,X61,23,9721138,0.2
+"Los Angeles County, CA",6037,2022,X64,T40.2,17,9721138,Unreliable
+"Los Angeles County, CA",6037,2022,X64,T42.4,15,9721138,Unreliable
+"Los Angeles County, CA",6037,2022,X64,X64,61,9721138,0.6
+"Los Angeles County, CA",6037,2023,X41,T42.4,14,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X41,T43.6,369,9663345,3.8
+"Los Angeles County, CA",6037,2023,X41,X41,387,9663345,4.0
+"Los Angeles County, CA",6037,2023,X42,T40.1,44,9663345,0.5
+"Los Angeles County, CA",6037,2023,X42,T40.2,40,9663345,0.4
+"Los Angeles County, CA",6037,2023,X42,T40.4,590,9663345,6.1
+"Los Angeles County, CA",6037,2023,X42,T40.5,255,9663345,2.6
+"Los Angeles County, CA",6037,2023,X42,X42,727,9663345,7.5
+"Los Angeles County, CA",6037,2023,X44,T40.1,78,9663345,0.8
+"Los Angeles County, CA",6037,2023,X44,T40.2,55,9663345,0.6
+"Los Angeles County, CA",6037,2023,X44,T40.3,13,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X44,T40.4,925,9663345,9.6
+"Los Angeles County, CA",6037,2023,X44,T40.5,184,9663345,1.9
+"Los Angeles County, CA",6037,2023,X44,T42.4,123,9663345,1.3
+"Los Angeles County, CA",6037,2023,X44,T43.6,924,9663345,9.6
+"Los Angeles County, CA",6037,2023,X44,X44,1105,9663345,11.4
+"Los Angeles County, CA",6037,2023,X61,X61,18,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X62,X62,11,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X64,T40.2,14,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X64,T40.4,13,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X64,T42.4,16,9663345,Unreliable
+"Los Angeles County, CA",6037,2023,X64,X64,61,9663345,0.6
+"Madera County, CA",6039,2019,X41,T43.6,16,157327,Unreliable
+"Madera County, CA",6039,2019,X41,X41,16,157327,Unreliable
+"Madera County, CA",6039,2020,X41,T43.6,11,157761,Unreliable
+"Madera County, CA",6039,2020,X41,X41,12,157761,Unreliable
+"Madera County, CA",6039,2021,X41,T43.6,14,159410,Unreliable
+"Madera County, CA",6039,2021,X41,X41,14,159410,Unreliable
+"Madera County, CA",6039,2021,X44,T40.4,10,159410,Unreliable
+"Madera County, CA",6039,2021,X44,X44,15,159410,Unreliable
+"Madera County, CA",6039,2022,X41,T43.6,14,160256,Unreliable
+"Madera County, CA",6039,2022,X41,X41,14,160256,Unreliable
+"Madera County, CA",6039,2022,X44,X44,11,160256,Unreliable
+"Madera County, CA",6039,2023,X41,T43.6,15,162858,Unreliable
+"Madera County, CA",6039,2023,X41,X41,16,162858,Unreliable
+"Madera County, CA",6039,2023,X44,X44,14,162858,Unreliable
+"Marin County, CA",6041,2018,X44,X44,11,259666,Unreliable
+"Marin County, CA",6041,2019,X42,X42,13,258826,Unreliable
+"Marin County, CA",6041,2019,X44,X44,13,258826,Unreliable
+"Marin County, CA",6041,2020,X41,T43.6,10,257332,Unreliable
+"Marin County, CA",6041,2020,X41,X41,10,257332,Unreliable
+"Marin County, CA",6041,2020,X42,T40.4,12,257332,Unreliable
+"Marin County, CA",6041,2020,X42,X42,18,257332,Unreliable
+"Marin County, CA",6041,2020,X44,T40.4,11,257332,Unreliable
+"Marin County, CA",6041,2020,X44,T43.6,17,257332,Unreliable
+"Marin County, CA",6041,2020,X44,X44,25,257332,9.7
+"Marin County, CA",6041,2021,X41,X41,10,260206,Unreliable
+"Marin County, CA",6041,2021,X42,T40.4,15,260206,Unreliable
+"Marin County, CA",6041,2021,X42,X42,17,260206,Unreliable
+"Marin County, CA",6041,2021,X44,T40.4,19,260206,Unreliable
+"Marin County, CA",6041,2021,X44,T43.6,23,260206,8.8
+"Marin County, CA",6041,2021,X44,X44,31,260206,11.9
+"Marin County, CA",6041,2022,X42,T40.4,17,256018,Unreliable
+"Marin County, CA",6041,2022,X42,X42,21,256018,8.2
+"Marin County, CA",6041,2022,X44,T40.4,14,256018,Unreliable
+"Marin County, CA",6041,2022,X44,T43.6,15,256018,Unreliable
+"Marin County, CA",6041,2022,X44,X44,22,256018,8.6
+"Marin County, CA",6041,2023,X41,X41,11,254407,Unreliable
+"Marin County, CA",6041,2023,X42,T40.4,10,254407,Unreliable
+"Marin County, CA",6041,2023,X42,X42,12,254407,Unreliable
+"Marin County, CA",6041,2023,X44,T40.4,21,254407,8.3
+"Marin County, CA",6041,2023,X44,T43.6,23,254407,9.0
+"Marin County, CA",6041,2023,X44,X44,33,254407,13.0
+"Mendocino County, CA",6045,2018,X41,T43.6,13,87606,Unreliable
+"Mendocino County, CA",6045,2018,X41,X41,13,87606,Unreliable
+"Mendocino County, CA",6045,2019,X41,T43.6,14,86749,Unreliable
+"Mendocino County, CA",6045,2019,X41,X41,16,86749,Unreliable
+"Mendocino County, CA",6045,2019,X44,T43.6,12,86749,Unreliable
+"Mendocino County, CA",6045,2019,X44,X44,16,86749,Unreliable
+"Mendocino County, CA",6045,2020,X41,X41,12,86061,Unreliable
+"Mendocino County, CA",6045,2020,X44,T40.4,11,86061,Unreliable
+"Mendocino County, CA",6045,2020,X44,T43.6,14,86061,Unreliable
+"Mendocino County, CA",6045,2020,X44,X44,24,86061,27.9
+"Mendocino County, CA",6045,2021,X41,T43.6,15,91305,Unreliable
+"Mendocino County, CA",6045,2021,X41,X41,16,91305,Unreliable
+"Mendocino County, CA",6045,2021,X42,T40.4,10,91305,Unreliable
+"Mendocino County, CA",6045,2021,X42,X42,13,91305,Unreliable
+"Mendocino County, CA",6045,2021,X44,T40.2,12,91305,Unreliable
+"Mendocino County, CA",6045,2021,X44,T40.4,30,91305,32.9
+"Mendocino County, CA",6045,2021,X44,T43.6,27,91305,29.6
+"Mendocino County, CA",6045,2021,X44,X44,41,91305,44.9
+"Mendocino County, CA",6045,2022,X41,T43.6,16,89783,Unreliable
+"Mendocino County, CA",6045,2022,X41,X41,18,89783,Unreliable
+"Mendocino County, CA",6045,2022,X42,X42,10,89783,Unreliable
+"Mendocino County, CA",6045,2022,X44,T40.4,30,89783,33.4
+"Mendocino County, CA",6045,2022,X44,T43.6,25,89783,27.8
+"Mendocino County, CA",6045,2022,X44,X44,35,89783,39.0
+"Mendocino County, CA",6045,2023,X41,T43.6,12,89108,Unreliable
+"Mendocino County, CA",6045,2023,X41,X41,12,89108,Unreliable
+"Mendocino County, CA",6045,2023,X44,T40.4,21,89108,23.6
+"Mendocino County, CA",6045,2023,X44,T43.6,23,89108,25.8
+"Mendocino County, CA",6045,2023,X44,X44,31,89108,34.8
+"Merced County, CA",6047,2018,X41,T43.6,13,274765,Unreliable
+"Merced County, CA",6047,2018,X41,X41,15,274765,Unreliable
+"Merced County, CA",6047,2018,X44,X44,13,274765,Unreliable
+"Merced County, CA",6047,2019,X41,T43.6,18,277680,Unreliable
+"Merced County, CA",6047,2019,X41,X41,18,277680,Unreliable
+"Merced County, CA",6047,2019,X44,X44,14,277680,Unreliable
+"Merced County, CA",6047,2020,X41,T43.6,20,279252,7.2
+"Merced County, CA",6047,2020,X41,X41,20,279252,7.2
+"Merced County, CA",6047,2020,X42,X42,12,279252,Unreliable
+"Merced County, CA",6047,2020,X44,T40.4,10,279252,Unreliable
+"Merced County, CA",6047,2020,X44,X44,18,279252,Unreliable
+"Merced County, CA",6047,2021,X41,T43.6,20,286461,7.0
+"Merced County, CA",6047,2021,X41,X41,22,286461,7.7
+"Merced County, CA",6047,2021,X44,T40.4,12,286461,Unreliable
+"Merced County, CA",6047,2021,X44,T43.6,15,286461,Unreliable
+"Merced County, CA",6047,2021,X44,X44,22,286461,7.7
+"Merced County, CA",6047,2022,X41,T43.6,20,290014,6.9
+"Merced County, CA",6047,2022,X41,X41,22,290014,7.6
+"Merced County, CA",6047,2022,X42,T40.4,13,290014,Unreliable
+"Merced County, CA",6047,2022,X42,X42,14,290014,Unreliable
+"Merced County, CA",6047,2022,X44,T40.4,16,290014,Unreliable
+"Merced County, CA",6047,2022,X44,T43.6,15,290014,Unreliable
+"Merced County, CA",6047,2022,X44,X44,30,290014,10.3
+"Merced County, CA",6047,2023,X41,T43.6,15,291920,Unreliable
+"Merced County, CA",6047,2023,X41,X41,16,291920,Unreliable
+"Merced County, CA",6047,2023,X42,T40.4,19,291920,Unreliable
+"Merced County, CA",6047,2023,X42,X42,22,291920,7.5
+"Merced County, CA",6047,2023,X44,T40.4,21,291920,7.2
+"Merced County, CA",6047,2023,X44,T43.6,19,291920,Unreliable
+"Merced County, CA",6047,2023,X44,X44,22,291920,7.5
+"Monterey County, CA",6053,2018,X41,T43.6,15,435594,Unreliable
+"Monterey County, CA",6053,2018,X41,X41,15,435594,Unreliable
+"Monterey County, CA",6053,2018,X44,X44,29,435594,6.7
+"Monterey County, CA",6053,2019,X41,T43.6,12,434061,Unreliable
+"Monterey County, CA",6053,2019,X41,X41,12,434061,Unreliable
+"Monterey County, CA",6053,2019,X42,X42,14,434061,Unreliable
+"Monterey County, CA",6053,2019,X44,X44,35,434061,8.1
+"Monterey County, CA",6053,2020,X41,T43.6,23,430906,5.3
+"Monterey County, CA",6053,2020,X41,X41,23,430906,5.3
+"Monterey County, CA",6053,2020,X42,T40.4,13,430906,Unreliable
+"Monterey County, CA",6053,2020,X42,X42,21,430906,4.9
+"Monterey County, CA",6053,2020,X44,T40.4,10,430906,Unreliable
+"Monterey County, CA",6053,2020,X44,X44,48,430906,11.1
+"Monterey County, CA",6053,2021,X41,T43.6,21,437325,4.8
+"Monterey County, CA",6053,2021,X41,X41,21,437325,4.8
+"Monterey County, CA",6053,2021,X42,T40.4,10,437325,Unreliable
+"Monterey County, CA",6053,2021,X42,X42,19,437325,Unreliable
+"Monterey County, CA",6053,2021,X44,X44,52,437325,11.9
+"Monterey County, CA",6053,2022,X41,T43.6,16,432858,Unreliable
+"Monterey County, CA",6053,2022,X41,X41,16,432858,Unreliable
+"Monterey County, CA",6053,2022,X42,T40.4,11,432858,Unreliable
+"Monterey County, CA",6053,2022,X42,X42,17,432858,Unreliable
+"Monterey County, CA",6053,2022,X44,T40.4,15,432858,Unreliable
+"Monterey County, CA",6053,2022,X44,T43.6,16,432858,Unreliable
+"Monterey County, CA",6053,2022,X44,X44,44,432858,10.2
+"Monterey County, CA",6053,2022,X64,X64,11,432858,Unreliable
+"Monterey County, CA",6053,2023,X41,T43.6,22,430723,5.1
+"Monterey County, CA",6053,2023,X41,X41,24,430723,5.6
+"Monterey County, CA",6053,2023,X42,T40.4,19,430723,Unreliable
+"Monterey County, CA",6053,2023,X42,X42,27,430723,6.3
+"Monterey County, CA",6053,2023,X44,T40.4,26,430723,6.0
+"Monterey County, CA",6053,2023,X44,T43.6,21,430723,4.9
+"Monterey County, CA",6053,2023,X44,X44,77,430723,17.9
+"Napa County, CA",6055,2021,X44,X44,11,136207,Unreliable
+"Napa County, CA",6055,2022,X44,T40.4,12,134300,Unreliable
+"Napa County, CA",6055,2022,X44,T43.6,13,134300,Unreliable
+"Napa County, CA",6055,2022,X44,X44,19,134300,Unreliable
+"Napa County, CA",6055,2023,X44,X44,10,133216,Unreliable
+"Nevada County, CA",6057,2020,X42,T40.4,12,99606,Unreliable
+"Nevada County, CA",6057,2020,X42,X42,17,99606,Unreliable
+"Nevada County, CA",6057,2020,X44,X44,12,99606,Unreliable
+"Nevada County, CA",6057,2021,X42,T40.4,10,103487,Unreliable
+"Nevada County, CA",6057,2021,X42,X42,15,103487,Unreliable
+"Nevada County, CA",6057,2021,X44,X44,13,103487,Unreliable
+"Nevada County, CA",6057,2022,X42,T40.4,13,102293,Unreliable
+"Nevada County, CA",6057,2022,X42,X42,18,102293,Unreliable
+"Nevada County, CA",6057,2023,X42,T40.4,13,102037,Unreliable
+"Nevada County, CA",6057,2023,X42,X42,15,102037,Unreliable
+"Nevada County, CA",6057,2023,X44,T40.4,18,102037,Unreliable
+"Nevada County, CA",6057,2023,X44,T43.6,19,102037,Unreliable
+"Nevada County, CA",6057,2023,X44,X44,22,102037,21.6
+"Orange County, CA",6059,2018,X41,T42.4,10,3185968,Unreliable
+"Orange County, CA",6059,2018,X41,T43.6,64,3185968,2.0
+"Orange County, CA",6059,2018,X41,X41,75,3185968,2.4
+"Orange County, CA",6059,2018,X42,T40.1,26,3185968,0.8
+"Orange County, CA",6059,2018,X42,T40.2,20,3185968,0.6
+"Orange County, CA",6059,2018,X42,T40.4,37,3185968,1.2
+"Orange County, CA",6059,2018,X42,T40.5,11,3185968,Unreliable
+"Orange County, CA",6059,2018,X42,X42,73,3185968,2.3
+"Orange County, CA",6059,2018,X44,T40.1,59,3185968,1.9
+"Orange County, CA",6059,2018,X44,T40.2,58,3185968,1.8
+"Orange County, CA",6059,2018,X44,T40.3,13,3185968,Unreliable
+"Orange County, CA",6059,2018,X44,T40.4,72,3185968,2.3
+"Orange County, CA",6059,2018,X44,T40.5,19,3185968,Unreliable
+"Orange County, CA",6059,2018,X44,T42.4,81,3185968,2.5
+"Orange County, CA",6059,2018,X44,T43.6,99,3185968,3.1
+"Orange County, CA",6059,2018,X44,X44,203,3185968,6.4
+"Orange County, CA",6059,2018,X61,X61,11,3185968,Unreliable
+"Orange County, CA",6059,2018,X64,T40.2,13,3185968,Unreliable
+"Orange County, CA",6059,2018,X64,T42.4,21,3185968,0.7
+"Orange County, CA",6059,2018,X64,X64,35,3185968,1.1
+"Orange County, CA",6059,2019,X41,T43.6,57,3175692,1.8
+"Orange County, CA",6059,2019,X41,X41,70,3175692,2.2
+"Orange County, CA",6059,2019,X42,T40.1,24,3175692,0.8
+"Orange County, CA",6059,2019,X42,T40.2,14,3175692,Unreliable
+"Orange County, CA",6059,2019,X42,T40.4,49,3175692,1.5
+"Orange County, CA",6059,2019,X42,T40.5,20,3175692,0.6
+"Orange County, CA",6059,2019,X42,X42,88,3175692,2.8
+"Orange County, CA",6059,2019,X44,T40.1,48,3175692,1.5
+"Orange County, CA",6059,2019,X44,T40.2,58,3175692,1.8
+"Orange County, CA",6059,2019,X44,T40.4,80,3175692,2.5
+"Orange County, CA",6059,2019,X44,T40.5,24,3175692,0.8
+"Orange County, CA",6059,2019,X44,T42.4,60,3175692,1.9
+"Orange County, CA",6059,2019,X44,T43.6,80,3175692,2.5
+"Orange County, CA",6059,2019,X44,X44,187,3175692,5.9
+"Orange County, CA",6059,2019,X61,X61,11,3175692,Unreliable
+"Orange County, CA",6059,2019,X64,T40.2,15,3175692,Unreliable
+"Orange County, CA",6059,2019,X64,T42.4,15,3175692,Unreliable
+"Orange County, CA",6059,2019,X64,X64,37,3175692,1.2
+"Orange County, CA",6059,2020,X41,T43.6,53,3166857,1.7
+"Orange County, CA",6059,2020,X41,X41,64,3166857,2.0
+"Orange County, CA",6059,2020,X42,T40.1,17,3166857,Unreliable
+"Orange County, CA",6059,2020,X42,T40.2,16,3166857,Unreliable
+"Orange County, CA",6059,2020,X42,T40.4,124,3166857,3.9
+"Orange County, CA",6059,2020,X42,T40.5,27,3166857,0.9
+"Orange County, CA",6059,2020,X42,T42.4,10,3166857,Unreliable
+"Orange County, CA",6059,2020,X42,T43.6,16,3166857,Unreliable
+"Orange County, CA",6059,2020,X42,X42,153,3166857,4.8
+"Orange County, CA",6059,2020,X44,T40.1,51,3166857,1.6
+"Orange County, CA",6059,2020,X44,T40.2,85,3166857,2.7
+"Orange County, CA",6059,2020,X44,T40.3,22,3166857,0.7
+"Orange County, CA",6059,2020,X44,T40.4,258,3166857,8.1
+"Orange County, CA",6059,2020,X44,T40.5,47,3166857,1.5
+"Orange County, CA",6059,2020,X44,T42.4,97,3166857,3.1
+"Orange County, CA",6059,2020,X44,T43.6,215,3166857,6.8
+"Orange County, CA",6059,2020,X44,X44,382,3166857,12.1
+"Orange County, CA",6059,2020,X64,T40.2,13,3166857,Unreliable
+"Orange County, CA",6059,2020,X64,T42.4,17,3166857,Unreliable
+"Orange County, CA",6059,2020,X64,X64,33,3166857,1.0
+"Orange County, CA",6059,2021,X41,T42.4,10,3167809,Unreliable
+"Orange County, CA",6059,2021,X41,T43.6,92,3167809,2.9
+"Orange County, CA",6059,2021,X41,X41,105,3167809,3.3
+"Orange County, CA",6059,2021,X42,T40.1,15,3167809,Unreliable
+"Orange County, CA",6059,2021,X42,T40.2,22,3167809,0.7
+"Orange County, CA",6059,2021,X42,T40.4,196,3167809,6.2
+"Orange County, CA",6059,2021,X42,T40.5,30,3167809,0.9
+"Orange County, CA",6059,2021,X42,T43.6,15,3167809,Unreliable
+"Orange County, CA",6059,2021,X42,X42,226,3167809,7.1
+"Orange County, CA",6059,2021,X44,T40.1,36,3167809,1.1
+"Orange County, CA",6059,2021,X44,T40.2,82,3167809,2.6
+"Orange County, CA",6059,2021,X44,T40.3,20,3167809,0.6
+"Orange County, CA",6059,2021,X44,T40.4,446,3167809,14.1
+"Orange County, CA",6059,2021,X44,T40.5,35,3167809,1.1
+"Orange County, CA",6059,2021,X44,T42.4,108,3167809,3.4
+"Orange County, CA",6059,2021,X44,T43.6,351,3167809,11.1
+"Orange County, CA",6059,2021,X44,X44,532,3167809,16.8
+"Orange County, CA",6059,2021,X64,T40.2,16,3167809,Unreliable
+"Orange County, CA",6059,2021,X64,T40.4,11,3167809,Unreliable
+"Orange County, CA",6059,2021,X64,T42.4,19,3167809,Unreliable
+"Orange County, CA",6059,2021,X64,X64,51,3167809,1.6
+"Orange County, CA",6059,2022,X41,T43.6,64,3151184,2.0
+"Orange County, CA",6059,2022,X41,X41,76,3151184,2.4
+"Orange County, CA",6059,2022,X42,T40.2,18,3151184,Unreliable
+"Orange County, CA",6059,2022,X42,T40.4,163,3151184,5.2
+"Orange County, CA",6059,2022,X42,T40.5,35,3151184,1.1
+"Orange County, CA",6059,2022,X42,T43.6,10,3151184,Unreliable
+"Orange County, CA",6059,2022,X42,X42,190,3151184,6.0
+"Orange County, CA",6059,2022,X44,T40.1,12,3151184,Unreliable
+"Orange County, CA",6059,2022,X44,T40.2,59,3151184,1.9
+"Orange County, CA",6059,2022,X44,T40.4,402,3151184,12.8
+"Orange County, CA",6059,2022,X44,T40.5,40,3151184,1.3
+"Orange County, CA",6059,2022,X44,T42.4,84,3151184,2.7
+"Orange County, CA",6059,2022,X44,T43.6,328,3151184,10.4
+"Orange County, CA",6059,2022,X44,X44,482,3151184,15.3
+"Orange County, CA",6059,2022,X61,X61,10,3151184,Unreliable
+"Orange County, CA",6059,2022,X64,T40.2,14,3151184,Unreliable
+"Orange County, CA",6059,2022,X64,T42.4,11,3151184,Unreliable
+"Orange County, CA",6059,2022,X64,X64,44,3151184,1.4
+"Orange County, CA",6059,2023,X41,T43.6,77,3135755,2.5
+"Orange County, CA",6059,2023,X41,X41,84,3135755,2.7
+"Orange County, CA",6059,2023,X42,T40.2,16,3135755,Unreliable
+"Orange County, CA",6059,2023,X42,T40.4,175,3135755,5.6
+"Orange County, CA",6059,2023,X42,T40.5,38,3135755,1.2
+"Orange County, CA",6059,2023,X42,X42,193,3135755,6.2
+"Orange County, CA",6059,2023,X44,T40.1,10,3135755,Unreliable
+"Orange County, CA",6059,2023,X44,T40.2,42,3135755,1.3
+"Orange County, CA",6059,2023,X44,T40.3,11,3135755,Unreliable
+"Orange County, CA",6059,2023,X44,T40.4,357,3135755,11.4
+"Orange County, CA",6059,2023,X44,T40.5,29,3135755,0.9
+"Orange County, CA",6059,2023,X44,T42.4,61,3135755,1.9
+"Orange County, CA",6059,2023,X44,T43.6,304,3135755,9.7
+"Orange County, CA",6059,2023,X44,X44,424,3135755,13.5
+"Orange County, CA",6059,2023,X64,T42.4,12,3135755,Unreliable
+"Orange County, CA",6059,2023,X64,X64,37,3135755,1.2
+"Placer County, CA",6061,2018,X41,T43.6,13,393149,Unreliable
+"Placer County, CA",6061,2018,X41,X41,14,393149,Unreliable
+"Placer County, CA",6061,2018,X44,X44,13,393149,Unreliable
+"Placer County, CA",6061,2019,X41,T43.6,16,398329,Unreliable
+"Placer County, CA",6061,2019,X41,X41,17,398329,Unreliable
+"Placer County, CA",6061,2019,X42,X42,17,398329,Unreliable
+"Placer County, CA",6061,2019,X44,X44,20,398329,5.0
+"Placer County, CA",6061,2020,X41,T43.6,12,402950,Unreliable
+"Placer County, CA",6061,2020,X41,X41,15,402950,Unreliable
+"Placer County, CA",6061,2020,X42,T40.4,17,402950,Unreliable
+"Placer County, CA",6061,2020,X42,X42,23,402950,5.7
+"Placer County, CA",6061,2020,X44,T43.6,15,402950,Unreliable
+"Placer County, CA",6061,2020,X44,X44,24,402950,6.0
+"Placer County, CA",6061,2021,X41,T43.6,13,412300,Unreliable
+"Placer County, CA",6061,2021,X41,X41,13,412300,Unreliable
+"Placer County, CA",6061,2021,X42,T40.4,17,412300,Unreliable
+"Placer County, CA",6061,2021,X42,X42,27,412300,6.5
+"Placer County, CA",6061,2021,X44,T40.4,18,412300,Unreliable
+"Placer County, CA",6061,2021,X44,T43.6,24,412300,5.8
+"Placer County, CA",6061,2021,X44,X44,33,412300,8.0
+"Placer County, CA",6061,2022,X41,T43.6,17,417772,Unreliable
+"Placer County, CA",6061,2022,X41,X41,17,417772,Unreliable
+"Placer County, CA",6061,2022,X42,T40.4,30,417772,7.2
+"Placer County, CA",6061,2022,X42,X42,36,417772,8.6
+"Placer County, CA",6061,2022,X44,T40.4,20,417772,4.8
+"Placer County, CA",6061,2022,X44,T43.6,17,417772,Unreliable
+"Placer County, CA",6061,2022,X44,X44,28,417772,6.7
+"Placer County, CA",6061,2023,X41,T43.6,11,423561,Unreliable
+"Placer County, CA",6061,2023,X41,X41,13,423561,Unreliable
+"Placer County, CA",6061,2023,X42,T40.4,27,423561,6.4
+"Placer County, CA",6061,2023,X42,X42,32,423561,7.6
+"Placer County, CA",6061,2023,X44,T40.4,23,423561,5.4
+"Placer County, CA",6061,2023,X44,T43.6,21,423561,5.0
+"Placer County, CA",6061,2023,X44,X44,29,423561,6.8
+"Riverside County, CA",6065,2018,X41,T43.6,152,2450758,6.2
+"Riverside County, CA",6065,2018,X41,X41,156,2450758,6.4
+"Riverside County, CA",6065,2018,X42,T40.1,36,2450758,1.5
+"Riverside County, CA",6065,2018,X42,T40.2,17,2450758,Unreliable
+"Riverside County, CA",6065,2018,X42,T40.4,39,2450758,1.6
+"Riverside County, CA",6065,2018,X42,T40.5,21,2450758,0.9
+"Riverside County, CA",6065,2018,X42,X42,93,2450758,3.8
+"Riverside County, CA",6065,2018,X44,T40.1,31,2450758,1.3
+"Riverside County, CA",6065,2018,X44,T40.4,18,2450758,Unreliable
+"Riverside County, CA",6065,2018,X44,T43.6,51,2450758,2.1
+"Riverside County, CA",6065,2018,X44,X44,131,2450758,5.3
+"Riverside County, CA",6065,2018,X64,X64,37,2450758,1.5
+"Riverside County, CA",6065,2019,X41,T43.6,127,2470546,5.1
+"Riverside County, CA",6065,2019,X41,X41,131,2470546,5.3
+"Riverside County, CA",6065,2019,X42,T40.1,30,2470546,1.2
+"Riverside County, CA",6065,2019,X42,T40.2,16,2470546,Unreliable
+"Riverside County, CA",6065,2019,X42,T40.4,84,2470546,3.4
+"Riverside County, CA",6065,2019,X42,T40.5,33,2470546,1.3
+"Riverside County, CA",6065,2019,X42,X42,136,2470546,5.5
+"Riverside County, CA",6065,2019,X44,T40.1,48,2470546,1.9
+"Riverside County, CA",6065,2019,X44,T40.2,19,2470546,Unreliable
+"Riverside County, CA",6065,2019,X44,T40.4,47,2470546,1.9
+"Riverside County, CA",6065,2019,X44,T40.5,10,2470546,Unreliable
+"Riverside County, CA",6065,2019,X44,T42.4,26,2470546,1.1
+"Riverside County, CA",6065,2019,X44,T43.6,77,2470546,3.1
+"Riverside County, CA",6065,2019,X44,X44,149,2470546,6.0
+"Riverside County, CA",6065,2019,X62,X62,10,2470546,Unreliable
+"Riverside County, CA",6065,2019,X64,X64,21,2470546,0.9
+"Riverside County, CA",6065,2020,X41,T43.6,204,2489188,8.2
+"Riverside County, CA",6065,2020,X41,X41,209,2489188,8.4
+"Riverside County, CA",6065,2020,X42,T40.1,33,2489188,1.3
+"Riverside County, CA",6065,2020,X42,T40.2,22,2489188,0.9
+"Riverside County, CA",6065,2020,X42,T40.4,152,2489188,6.1
+"Riverside County, CA",6065,2020,X42,T40.5,49,2489188,2.0
+"Riverside County, CA",6065,2020,X42,X42,210,2489188,8.4
+"Riverside County, CA",6065,2020,X44,T40.1,62,2489188,2.5
+"Riverside County, CA",6065,2020,X44,T40.2,32,2489188,1.3
+"Riverside County, CA",6065,2020,X44,T40.4,124,2489188,5.0
+"Riverside County, CA",6065,2020,X44,T40.5,26,2489188,1.0
+"Riverside County, CA",6065,2020,X44,T42.4,49,2489188,2.0
+"Riverside County, CA",6065,2020,X44,T43.6,151,2489188,6.1
+"Riverside County, CA",6065,2020,X44,X44,236,2489188,9.5
+"Riverside County, CA",6065,2020,X64,T40.2,11,2489188,Unreliable
+"Riverside County, CA",6065,2020,X64,X64,27,2489188,1.1
+"Riverside County, CA",6065,2021,X41,T43.6,233,2458395,9.5
+"Riverside County, CA",6065,2021,X41,X41,239,2458395,9.7
+"Riverside County, CA",6065,2021,X42,T40.1,24,2458395,1.0
+"Riverside County, CA",6065,2021,X42,T40.2,22,2458395,0.9
+"Riverside County, CA",6065,2021,X42,T40.4,192,2458395,7.8
+"Riverside County, CA",6065,2021,X42,T40.5,59,2458395,2.4
+"Riverside County, CA",6065,2021,X42,X42,246,2458395,10.0
+"Riverside County, CA",6065,2021,X44,T40.1,53,2458395,2.2
+"Riverside County, CA",6065,2021,X44,T40.2,31,2458395,1.3
+"Riverside County, CA",6065,2021,X44,T40.4,216,2458395,8.8
+"Riverside County, CA",6065,2021,X44,T40.5,25,2458395,1.0
+"Riverside County, CA",6065,2021,X44,T42.4,52,2458395,2.1
+"Riverside County, CA",6065,2021,X44,T43.6,213,2458395,8.7
+"Riverside County, CA",6065,2021,X44,X44,299,2458395,12.2
+"Riverside County, CA",6065,2021,X64,T40.2,10,2458395,Unreliable
+"Riverside County, CA",6065,2021,X64,X64,28,2458395,1.1
+"Riverside County, CA",6065,2022,X41,T43.6,202,2473902,8.2
+"Riverside County, CA",6065,2022,X41,X41,208,2473902,8.4
+"Riverside County, CA",6065,2022,X42,T40.1,13,2473902,Unreliable
+"Riverside County, CA",6065,2022,X42,T40.2,24,2473902,1.0
+"Riverside County, CA",6065,2022,X42,T40.4,196,2473902,7.9
+"Riverside County, CA",6065,2022,X42,T40.5,56,2473902,2.3
+"Riverside County, CA",6065,2022,X42,X42,236,2473902,9.5
+"Riverside County, CA",6065,2022,X44,T40.1,27,2473902,1.1
+"Riverside County, CA",6065,2022,X44,T40.2,27,2473902,1.1
+"Riverside County, CA",6065,2022,X44,T40.4,317,2473902,12.8
+"Riverside County, CA",6065,2022,X44,T40.5,28,2473902,1.1
+"Riverside County, CA",6065,2022,X44,T42.4,54,2473902,2.2
+"Riverside County, CA",6065,2022,X44,T43.6,313,2473902,12.7
+"Riverside County, CA",6065,2022,X44,X44,393,2473902,15.9
+"Riverside County, CA",6065,2022,X64,X64,14,2473902,Unreliable
+"Riverside County, CA",6065,2023,X41,T43.6,181,2492442,7.3
+"Riverside County, CA",6065,2023,X41,X41,183,2492442,7.3
+"Riverside County, CA",6065,2023,X42,T40.1,10,2492442,Unreliable
+"Riverside County, CA",6065,2023,X42,T40.2,12,2492442,Unreliable
+"Riverside County, CA",6065,2023,X42,T40.4,172,2492442,6.9
+"Riverside County, CA",6065,2023,X42,T40.5,57,2492442,2.3
+"Riverside County, CA",6065,2023,X42,X42,215,2492442,8.6
+"Riverside County, CA",6065,2023,X44,T40.1,22,2492442,0.9
+"Riverside County, CA",6065,2023,X44,T40.2,30,2492442,1.2
+"Riverside County, CA",6065,2023,X44,T40.4,369,2492442,14.8
+"Riverside County, CA",6065,2023,X44,T40.5,28,2492442,1.1
+"Riverside County, CA",6065,2023,X44,T42.4,36,2492442,1.4
+"Riverside County, CA",6065,2023,X44,T43.6,352,2492442,14.1
+"Riverside County, CA",6065,2023,X44,X44,433,2492442,17.4
+"Riverside County, CA",6065,2023,X64,X64,20,2492442,0.8
+"Sacramento County, CA",6067,2018,X41,T43.6,93,1540975,6.0
+"Sacramento County, CA",6067,2018,X41,X41,95,1540975,6.2
+"Sacramento County, CA",6067,2018,X42,T40.1,13,1540975,Unreliable
+"Sacramento County, CA",6067,2018,X42,T40.2,17,1540975,Unreliable
+"Sacramento County, CA",6067,2018,X42,T40.4,14,1540975,Unreliable
+"Sacramento County, CA",6067,2018,X42,T40.5,25,1540975,1.6
+"Sacramento County, CA",6067,2018,X42,X42,62,1540975,4.0
+"Sacramento County, CA",6067,2018,X44,T43.6,15,1540975,Unreliable
+"Sacramento County, CA",6067,2018,X44,X44,66,1540975,4.3
+"Sacramento County, CA",6067,2018,X64,X64,19,1540975,Unreliable
+"Sacramento County, CA",6067,2019,X41,T43.6,122,1552058,7.9
+"Sacramento County, CA",6067,2019,X41,X41,125,1552058,8.1
+"Sacramento County, CA",6067,2019,X42,T40.2,20,1552058,1.3
+"Sacramento County, CA",6067,2019,X42,T40.4,24,1552058,1.5
+"Sacramento County, CA",6067,2019,X42,T40.5,26,1552058,1.7
+"Sacramento County, CA",6067,2019,X42,X42,68,1552058,4.4
+"Sacramento County, CA",6067,2019,X44,T40.1,22,1552058,1.4
+"Sacramento County, CA",6067,2019,X44,T40.2,20,1552058,1.3
+"Sacramento County, CA",6067,2019,X44,T40.4,14,1552058,Unreliable
+"Sacramento County, CA",6067,2019,X44,T42.4,12,1552058,Unreliable
+"Sacramento County, CA",6067,2019,X44,T43.6,47,1552058,3.0
+"Sacramento County, CA",6067,2019,X44,X44,97,1552058,6.2
+"Sacramento County, CA",6067,2019,X64,X64,12,1552058,Unreliable
+"Sacramento County, CA",6067,2020,X41,T43.6,112,1559146,7.2
+"Sacramento County, CA",6067,2020,X41,X41,114,1559146,7.3
+"Sacramento County, CA",6067,2020,X42,T40.1,13,1559146,Unreliable
+"Sacramento County, CA",6067,2020,X42,T40.2,12,1559146,Unreliable
+"Sacramento County, CA",6067,2020,X42,T40.4,33,1559146,2.1
+"Sacramento County, CA",6067,2020,X42,T40.5,24,1559146,1.5
+"Sacramento County, CA",6067,2020,X42,X42,72,1559146,4.6
+"Sacramento County, CA",6067,2020,X44,T40.1,13,1559146,Unreliable
+"Sacramento County, CA",6067,2020,X44,T40.2,17,1559146,Unreliable
+"Sacramento County, CA",6067,2020,X44,T40.4,22,1559146,1.4
+"Sacramento County, CA",6067,2020,X44,T42.4,13,1559146,Unreliable
+"Sacramento County, CA",6067,2020,X44,T43.6,36,1559146,2.3
+"Sacramento County, CA",6067,2020,X44,X44,77,1559146,4.9
+"Sacramento County, CA",6067,2020,X64,X64,11,1559146,Unreliable
+"Sacramento County, CA",6067,2021,X41,T43.6,143,1588921,9.0
+"Sacramento County, CA",6067,2021,X41,X41,148,1588921,9.3
+"Sacramento County, CA",6067,2021,X42,T40.1,14,1588921,Unreliable
+"Sacramento County, CA",6067,2021,X42,T40.2,18,1588921,Unreliable
+"Sacramento County, CA",6067,2021,X42,T40.4,65,1588921,4.1
+"Sacramento County, CA",6067,2021,X42,T40.5,30,1588921,1.9
+"Sacramento County, CA",6067,2021,X42,X42,103,1588921,6.5
+"Sacramento County, CA",6067,2021,X44,T40.1,20,1588921,1.3
+"Sacramento County, CA",6067,2021,X44,T40.2,42,1588921,2.6
+"Sacramento County, CA",6067,2021,X44,T40.3,14,1588921,Unreliable
+"Sacramento County, CA",6067,2021,X44,T40.4,88,1588921,5.5
+"Sacramento County, CA",6067,2021,X44,T40.5,21,1588921,1.3
+"Sacramento County, CA",6067,2021,X44,T42.4,31,1588921,2.0
+"Sacramento County, CA",6067,2021,X44,T43.6,98,1588921,6.2
+"Sacramento County, CA",6067,2021,X44,X44,214,1588921,13.5
+"Sacramento County, CA",6067,2021,X64,X64,13,1588921,Unreliable
+"Sacramento County, CA",6067,2021,Y14,Y14,10,1588921,Unreliable
+"Sacramento County, CA",6067,2022,X41,T43.6,193,1584169,12.2
+"Sacramento County, CA",6067,2022,X41,X41,195,1584169,12.3
+"Sacramento County, CA",6067,2022,X42,T40.2,13,1584169,Unreliable
+"Sacramento County, CA",6067,2022,X42,T40.4,96,1584169,6.1
+"Sacramento County, CA",6067,2022,X42,T40.5,39,1584169,2.5
+"Sacramento County, CA",6067,2022,X42,X42,127,1584169,8.0
+"Sacramento County, CA",6067,2022,X44,T40.1,17,1584169,Unreliable
+"Sacramento County, CA",6067,2022,X44,T40.2,20,1584169,1.3
+"Sacramento County, CA",6067,2022,X44,T40.3,11,1584169,Unreliable
+"Sacramento County, CA",6067,2022,X44,T40.4,100,1584169,6.3
+"Sacramento County, CA",6067,2022,X44,T40.5,13,1584169,Unreliable
+"Sacramento County, CA",6067,2022,X44,T42.4,30,1584169,1.9
+"Sacramento County, CA",6067,2022,X44,T43.6,97,1584169,6.1
+"Sacramento County, CA",6067,2022,X44,X44,199,1584169,12.6
+"Sacramento County, CA",6067,2022,X64,X64,19,1584169,Unreliable
+"Sacramento County, CA",6067,2023,X41,T43.6,162,1584288,10.2
+"Sacramento County, CA",6067,2023,X41,X41,164,1584288,10.4
+"Sacramento County, CA",6067,2023,X42,T40.4,125,1584288,7.9
+"Sacramento County, CA",6067,2023,X42,T40.5,60,1584288,3.8
+"Sacramento County, CA",6067,2023,X42,X42,173,1584288,10.9
+"Sacramento County, CA",6067,2023,X44,T40.2,15,1584288,Unreliable
+"Sacramento County, CA",6067,2023,X44,T40.4,177,1584288,11.2
+"Sacramento County, CA",6067,2023,X44,T42.4,17,1584288,Unreliable
+"Sacramento County, CA",6067,2023,X44,T43.6,177,1584288,11.2
+"Sacramento County, CA",6067,2023,X44,X44,274,1584288,17.3
+"San Benito County, CA",6069,2023,X44,T40.4,11,68175,Unreliable
+"San Benito County, CA",6069,2023,X44,T43.6,11,68175,Unreliable
+"San Benito County, CA",6069,2023,X44,X44,13,68175,Unreliable
+"San Bernardino County, CA",6071,2018,X41,T43.6,102,2171603,4.7
+"San Bernardino County, CA",6071,2018,X41,X41,105,2171603,4.8
+"San Bernardino County, CA",6071,2018,X42,T40.1,19,2171603,Unreliable
+"San Bernardino County, CA",6071,2018,X42,T40.4,21,2171603,1.0
+"San Bernardino County, CA",6071,2018,X42,T40.5,21,2171603,1.0
+"San Bernardino County, CA",6071,2018,X42,X42,64,2171603,2.9
+"San Bernardino County, CA",6071,2018,X44,T40.1,30,2171603,1.4
+"San Bernardino County, CA",6071,2018,X44,T40.4,10,2171603,Unreliable
+"San Bernardino County, CA",6071,2018,X44,T43.6,42,2171603,1.9
+"San Bernardino County, CA",6071,2018,X44,X44,87,2171603,4.0
+"San Bernardino County, CA",6071,2018,X64,X64,11,2171603,Unreliable
+"San Bernardino County, CA",6071,2019,X41,T43.6,74,2180085,3.4
+"San Bernardino County, CA",6071,2019,X41,X41,78,2180085,3.6
+"San Bernardino County, CA",6071,2019,X42,T40.1,21,2180085,1.0
+"San Bernardino County, CA",6071,2019,X42,T40.2,11,2180085,Unreliable
+"San Bernardino County, CA",6071,2019,X42,T40.4,48,2180085,2.2
+"San Bernardino County, CA",6071,2019,X42,T40.5,13,2180085,Unreliable
+"San Bernardino County, CA",6071,2019,X42,X42,82,2180085,3.8
+"San Bernardino County, CA",6071,2019,X44,T40.1,13,2180085,Unreliable
+"San Bernardino County, CA",6071,2019,X44,T40.4,17,2180085,Unreliable
+"San Bernardino County, CA",6071,2019,X44,T43.6,35,2180085,1.6
+"San Bernardino County, CA",6071,2019,X44,X44,64,2180085,2.9
+"San Bernardino County, CA",6071,2019,X64,X64,13,2180085,Unreliable
+"San Bernardino County, CA",6071,2020,X41,T43.6,145,2189183,6.6
+"San Bernardino County, CA",6071,2020,X41,X41,151,2189183,6.9
+"San Bernardino County, CA",6071,2020,X42,T40.1,20,2189183,0.9
+"San Bernardino County, CA",6071,2020,X42,T40.2,10,2189183,Unreliable
+"San Bernardino County, CA",6071,2020,X42,T40.4,158,2189183,7.2
+"San Bernardino County, CA",6071,2020,X42,T40.5,32,2189183,1.5
+"San Bernardino County, CA",6071,2020,X42,X42,185,2189183,8.5
+"San Bernardino County, CA",6071,2020,X44,T40.1,40,2189183,1.8
+"San Bernardino County, CA",6071,2020,X44,T40.4,69,2189183,3.2
+"San Bernardino County, CA",6071,2020,X44,T42.4,10,2189183,Unreliable
+"San Bernardino County, CA",6071,2020,X44,T43.6,97,2189183,4.4
+"San Bernardino County, CA",6071,2020,X44,X44,147,2189183,6.7
+"San Bernardino County, CA",6071,2020,X64,X64,15,2189183,Unreliable
+"San Bernardino County, CA",6071,2021,X41,T43.6,123,2194710,5.6
+"San Bernardino County, CA",6071,2021,X41,X41,127,2194710,5.8
+"San Bernardino County, CA",6071,2021,X42,T40.1,15,2194710,Unreliable
+"San Bernardino County, CA",6071,2021,X42,T40.4,183,2194710,8.3
+"San Bernardino County, CA",6071,2021,X42,T40.5,33,2194710,1.5
+"San Bernardino County, CA",6071,2021,X42,X42,213,2194710,9.7
+"San Bernardino County, CA",6071,2021,X44,T40.1,35,2194710,1.6
+"San Bernardino County, CA",6071,2021,X44,T40.4,127,2194710,5.8
+"San Bernardino County, CA",6071,2021,X44,T40.5,12,2194710,Unreliable
+"San Bernardino County, CA",6071,2021,X44,T43.6,145,2194710,6.6
+"San Bernardino County, CA",6071,2021,X44,X44,198,2194710,9.0
+"San Bernardino County, CA",6071,2022,X41,T43.6,86,2193656,3.9
+"San Bernardino County, CA",6071,2022,X41,X41,87,2193656,4.0
+"San Bernardino County, CA",6071,2022,X42,T40.1,12,2193656,Unreliable
+"San Bernardino County, CA",6071,2022,X42,T40.4,230,2193656,10.5
+"San Bernardino County, CA",6071,2022,X42,T40.5,25,2193656,1.1
+"San Bernardino County, CA",6071,2022,X42,X42,255,2193656,11.6
+"San Bernardino County, CA",6071,2022,X44,T40.4,108,2193656,4.9
+"San Bernardino County, CA",6071,2022,X44,T43.6,111,2193656,5.1
+"San Bernardino County, CA",6071,2022,X44,X44,150,2193656,6.8
+"San Bernardino County, CA",6071,2022,X64,X64,11,2193656,Unreliable
+"San Bernardino County, CA",6071,2023,X41,T43.6,80,2195611,3.6
+"San Bernardino County, CA",6071,2023,X41,X41,82,2195611,3.7
+"San Bernardino County, CA",6071,2023,X42,T40.4,226,2195611,10.3
+"San Bernardino County, CA",6071,2023,X42,T40.5,29,2195611,1.3
+"San Bernardino County, CA",6071,2023,X42,X42,241,2195611,11.0
+"San Bernardino County, CA",6071,2023,X44,T40.2,11,2195611,Unreliable
+"San Bernardino County, CA",6071,2023,X44,T40.4,189,2195611,8.6
+"San Bernardino County, CA",6071,2023,X44,T40.5,10,2195611,Unreliable
+"San Bernardino County, CA",6071,2023,X44,T42.4,17,2195611,Unreliable
+"San Bernardino County, CA",6071,2023,X44,T43.6,185,2195611,8.4
+"San Bernardino County, CA",6071,2023,X44,X44,256,2195611,11.7
+"San Diego County, CA",6073,2018,X41,T42.4,10,3343364,Unreliable
+"San Diego County, CA",6073,2018,X41,T43.6,117,3343364,3.5
+"San Diego County, CA",6073,2018,X41,X41,128,3343364,3.8
+"San Diego County, CA",6073,2018,X42,T40.1,29,3343364,0.9
+"San Diego County, CA",6073,2018,X42,T40.2,23,3343364,0.7
+"San Diego County, CA",6073,2018,X42,T40.4,45,3343364,1.3
+"San Diego County, CA",6073,2018,X42,T40.5,28,3343364,0.8
+"San Diego County, CA",6073,2018,X42,X42,110,3343364,3.3
+"San Diego County, CA",6073,2018,X44,T40.1,58,3343364,1.7
+"San Diego County, CA",6073,2018,X44,T40.2,60,3343364,1.8
+"San Diego County, CA",6073,2018,X44,T40.3,18,3343364,Unreliable
+"San Diego County, CA",6073,2018,X44,T40.4,52,3343364,1.6
+"San Diego County, CA",6073,2018,X44,T40.5,30,3343364,0.9
+"San Diego County, CA",6073,2018,X44,T42.4,60,3343364,1.8
+"San Diego County, CA",6073,2018,X44,T43.6,88,3343364,2.6
+"San Diego County, CA",6073,2018,X44,X44,183,3343364,5.5
+"San Diego County, CA",6073,2018,X61,X61,15,3343364,Unreliable
+"San Diego County, CA",6073,2018,X64,T40.2,12,3343364,Unreliable
+"San Diego County, CA",6073,2018,X64,T42.4,10,3343364,Unreliable
+"San Diego County, CA",6073,2018,X64,X64,29,3343364,0.9
+"San Diego County, CA",6073,2019,X41,T42.4,10,3338330,Unreliable
+"San Diego County, CA",6073,2019,X41,T43.6,96,3338330,2.9
+"San Diego County, CA",6073,2019,X41,X41,110,3338330,3.3
+"San Diego County, CA",6073,2019,X42,T40.1,33,3338330,1.0
+"San Diego County, CA",6073,2019,X42,T40.2,14,3338330,Unreliable
+"San Diego County, CA",6073,2019,X42,T40.4,66,3338330,2.0
+"San Diego County, CA",6073,2019,X42,T40.5,25,3338330,0.7
+"San Diego County, CA",6073,2019,X42,X42,112,3338330,3.4
+"San Diego County, CA",6073,2019,X44,T40.1,79,3338330,2.4
+"San Diego County, CA",6073,2019,X44,T40.2,54,3338330,1.6
+"San Diego County, CA",6073,2019,X44,T40.3,10,3338330,Unreliable
+"San Diego County, CA",6073,2019,X44,T40.4,82,3338330,2.5
+"San Diego County, CA",6073,2019,X44,T40.5,25,3338330,0.7
+"San Diego County, CA",6073,2019,X44,T42.4,70,3338330,2.1
+"San Diego County, CA",6073,2019,X44,T43.6,130,3338330,3.9
+"San Diego County, CA",6073,2019,X44,X44,219,3338330,6.6
+"San Diego County, CA",6073,2019,X64,T40.2,11,3338330,Unreliable
+"San Diego County, CA",6073,2019,X64,X64,23,3338330,0.7
+"San Diego County, CA",6073,2020,X41,T43.6,138,3332427,4.1
+"San Diego County, CA",6073,2020,X41,X41,154,3332427,4.6
+"San Diego County, CA",6073,2020,X42,T40.1,30,3332427,0.9
+"San Diego County, CA",6073,2020,X42,T40.2,22,3332427,0.7
+"San Diego County, CA",6073,2020,X42,T40.4,187,3332427,5.6
+"San Diego County, CA",6073,2020,X42,T40.5,54,3332427,1.6
+"San Diego County, CA",6073,2020,X42,X42,230,3332427,6.9
+"San Diego County, CA",6073,2020,X44,T40.1,63,3332427,1.9
+"San Diego County, CA",6073,2020,X44,T40.2,49,3332427,1.5
+"San Diego County, CA",6073,2020,X44,T40.3,17,3332427,Unreliable
+"San Diego County, CA",6073,2020,X44,T40.4,222,3332427,6.7
+"San Diego County, CA",6073,2020,X44,T40.5,51,3332427,1.5
+"San Diego County, CA",6073,2020,X44,T42.4,90,3332427,2.7
+"San Diego County, CA",6073,2020,X44,T43.6,222,3332427,6.7
+"San Diego County, CA",6073,2020,X44,X44,323,3332427,9.7
+"San Diego County, CA",6073,2020,X64,T40.2,15,3332427,Unreliable
+"San Diego County, CA",6073,2020,X64,T42.4,13,3332427,Unreliable
+"San Diego County, CA",6073,2020,X64,X64,36,3332427,1.1
+"San Diego County, CA",6073,2021,X41,T43.6,154,3286069,4.7
+"San Diego County, CA",6073,2021,X41,X41,168,3286069,5.1
+"San Diego County, CA",6073,2021,X42,T40.1,18,3286069,Unreliable
+"San Diego County, CA",6073,2021,X42,T40.2,21,3286069,0.6
+"San Diego County, CA",6073,2021,X42,T40.4,238,3286069,7.2
+"San Diego County, CA",6073,2021,X42,T40.5,73,3286069,2.2
+"San Diego County, CA",6073,2021,X42,X42,281,3286069,8.6
+"San Diego County, CA",6073,2021,X44,T40.1,45,3286069,1.4
+"San Diego County, CA",6073,2021,X44,T40.2,39,3286069,1.2
+"San Diego County, CA",6073,2021,X44,T40.3,22,3286069,0.7
+"San Diego County, CA",6073,2021,X44,T40.4,419,3286069,12.8
+"San Diego County, CA",6073,2021,X44,T40.5,53,3286069,1.6
+"San Diego County, CA",6073,2021,X44,T42.4,108,3286069,3.3
+"San Diego County, CA",6073,2021,X44,T43.6,386,3286069,11.7
+"San Diego County, CA",6073,2021,X44,X44,485,3286069,14.8
+"San Diego County, CA",6073,2021,X64,T40.2,14,3286069,Unreliable
+"San Diego County, CA",6073,2021,X64,X64,28,3286069,0.9
+"San Diego County, CA",6073,2022,X41,T43.6,174,3276208,5.3
+"San Diego County, CA",6073,2022,X41,X41,183,3276208,5.6
+"San Diego County, CA",6073,2022,X42,T40.2,20,3276208,0.6
+"San Diego County, CA",6073,2022,X42,T40.3,11,3276208,Unreliable
+"San Diego County, CA",6073,2022,X42,T40.4,249,3276208,7.6
+"San Diego County, CA",6073,2022,X42,T40.5,77,3276208,2.4
+"San Diego County, CA",6073,2022,X42,X42,297,3276208,9.1
+"San Diego County, CA",6073,2022,X44,T40.1,11,3276208,Unreliable
+"San Diego County, CA",6073,2022,X44,T40.2,31,3276208,0.9
+"San Diego County, CA",6073,2022,X44,T40.4,411,3276208,12.5
+"San Diego County, CA",6073,2022,X44,T40.5,37,3276208,1.1
+"San Diego County, CA",6073,2022,X44,T42.4,26,3276208,0.8
+"San Diego County, CA",6073,2022,X44,T43.6,406,3276208,12.4
+"San Diego County, CA",6073,2022,X44,X44,456,3276208,13.9
+"San Diego County, CA",6073,2022,X61,X61,18,3276208,Unreliable
+"San Diego County, CA",6073,2022,X64,T40.2,11,3276208,Unreliable
+"San Diego County, CA",6073,2022,X64,X64,29,3276208,0.9
+"San Diego County, CA",6073,2023,X41,T42.4,12,3269973,Unreliable
+"San Diego County, CA",6073,2023,X41,T43.6,160,3269973,4.9
+"San Diego County, CA",6073,2023,X41,X41,174,3269973,5.3
+"San Diego County, CA",6073,2023,X42,T40.2,25,3269973,0.8
+"San Diego County, CA",6073,2023,X42,T40.4,214,3269973,6.5
+"San Diego County, CA",6073,2023,X42,T40.5,55,3269973,1.7
+"San Diego County, CA",6073,2023,X42,X42,251,3269973,7.7
+"San Diego County, CA",6073,2023,X44,T40.2,37,3269973,1.1
+"San Diego County, CA",6073,2023,X44,T40.4,379,3269973,11.6
+"San Diego County, CA",6073,2023,X44,T40.5,34,3269973,1.0
+"San Diego County, CA",6073,2023,X44,T42.4,57,3269973,1.7
+"San Diego County, CA",6073,2023,X44,T43.6,368,3269973,11.3
+"San Diego County, CA",6073,2023,X44,X44,445,3269973,13.6
+"San Diego County, CA",6073,2023,X61,X61,12,3269973,Unreliable
+"San Diego County, CA",6073,2023,X64,X64,26,3269973,0.8
+"San Francisco County, CA",6075,2018,X41,T43.6,44,883305,5.0
+"San Francisco County, CA",6075,2018,X41,X41,50,883305,5.7
+"San Francisco County, CA",6075,2018,X42,T40.1,21,883305,2.4
+"San Francisco County, CA",6075,2018,X42,T40.2,15,883305,Unreliable
+"San Francisco County, CA",6075,2018,X42,T40.4,27,883305,3.1
+"San Francisco County, CA",6075,2018,X42,T40.5,46,883305,5.2
+"San Francisco County, CA",6075,2018,X42,X42,77,883305,8.7
+"San Francisco County, CA",6075,2018,X44,T40.1,24,883305,2.7
+"San Francisco County, CA",6075,2018,X44,T40.2,37,883305,4.2
+"San Francisco County, CA",6075,2018,X44,T40.3,18,883305,Unreliable
+"San Francisco County, CA",6075,2018,X44,T40.4,41,883305,4.6
+"San Francisco County, CA",6075,2018,X44,T40.5,48,883305,5.4
+"San Francisco County, CA",6075,2018,X44,T42.4,20,883305,2.3
+"San Francisco County, CA",6075,2018,X44,T43.6,72,883305,8.2
+"San Francisco County, CA",6075,2018,X44,X44,99,883305,11.2
+"San Francisco County, CA",6075,2019,X41,T43.6,49,881549,5.6
+"San Francisco County, CA",6075,2019,X41,X41,52,881549,5.9
+"San Francisco County, CA",6075,2019,X42,T40.1,26,881549,2.9
+"San Francisco County, CA",6075,2019,X42,T40.2,15,881549,Unreliable
+"San Francisco County, CA",6075,2019,X42,T40.4,75,881549,8.5
+"San Francisco County, CA",6075,2019,X42,T40.5,86,881549,9.8
+"San Francisco County, CA",6075,2019,X42,X42,131,881549,14.9
+"San Francisco County, CA",6075,2019,X44,T40.1,43,881549,4.9
+"San Francisco County, CA",6075,2019,X44,T40.2,35,881549,4.0
+"San Francisco County, CA",6075,2019,X44,T40.3,14,881549,Unreliable
+"San Francisco County, CA",6075,2019,X44,T40.4,116,881549,13.2
+"San Francisco County, CA",6075,2019,X44,T40.5,91,881549,10.3
+"San Francisco County, CA",6075,2019,X44,T42.4,15,881549,Unreliable
+"San Francisco County, CA",6075,2019,X44,T43.6,168,881549,19.1
+"San Francisco County, CA",6075,2019,X44,X44,196,881549,22.2
+"San Francisco County, CA",6075,2019,X64,X64,12,881549,Unreliable
+"San Francisco County, CA",6075,2020,X41,T43.6,46,866606,5.3
+"San Francisco County, CA",6075,2020,X41,X41,50,866606,5.8
+"San Francisco County, CA",6075,2020,X42,T40.1,26,866606,3.0
+"San Francisco County, CA",6075,2020,X42,T40.2,10,866606,Unreliable
+"San Francisco County, CA",6075,2020,X42,T40.4,128,866606,14.8
+"San Francisco County, CA",6075,2020,X42,T40.5,108,866606,12.5
+"San Francisco County, CA",6075,2020,X42,X42,173,866606,20.0
+"San Francisco County, CA",6075,2020,X44,T40.1,36,866606,4.2
+"San Francisco County, CA",6075,2020,X44,T40.2,27,866606,3.1
+"San Francisco County, CA",6075,2020,X44,T40.3,19,866606,Unreliable
+"San Francisco County, CA",6075,2020,X44,T40.4,246,866606,28.4
+"San Francisco County, CA",6075,2020,X44,T40.5,104,866606,12.0
+"San Francisco County, CA",6075,2020,X44,T42.4,32,866606,3.7
+"San Francisco County, CA",6075,2020,X44,T43.6,248,866606,28.6
+"San Francisco County, CA",6075,2020,X44,X44,311,866606,35.9
+"San Francisco County, CA",6075,2021,X41,T43.6,51,815201,6.3
+"San Francisco County, CA",6075,2021,X41,X41,56,815201,6.9
+"San Francisco County, CA",6075,2021,X42,T40.1,29,815201,3.6
+"San Francisco County, CA",6075,2021,X42,T40.2,11,815201,Unreliable
+"San Francisco County, CA",6075,2021,X42,T40.4,164,815201,20.1
+"San Francisco County, CA",6075,2021,X42,T40.5,124,815201,15.2
+"San Francisco County, CA",6075,2021,X42,X42,208,815201,25.5
+"San Francisco County, CA",6075,2021,X44,T40.1,36,815201,4.4
+"San Francisco County, CA",6075,2021,X44,T40.2,16,815201,Unreliable
+"San Francisco County, CA",6075,2021,X44,T40.3,12,815201,Unreliable
+"San Francisco County, CA",6075,2021,X44,T40.4,225,815201,27.6
+"San Francisco County, CA",6075,2021,X44,T40.5,75,815201,9.2
+"San Francisco County, CA",6075,2021,X44,T42.4,26,815201,3.2
+"San Francisco County, CA",6075,2021,X44,T43.6,225,815201,27.6
+"San Francisco County, CA",6075,2021,X44,X44,269,815201,33.0
+"San Francisco County, CA",6075,2021,X64,X64,10,815201,Unreliable
+"San Francisco County, CA",6075,2022,X41,T43.6,53,808437,6.6
+"San Francisco County, CA",6075,2022,X41,X41,56,808437,6.9
+"San Francisco County, CA",6075,2022,X42,T40.1,27,808437,3.3
+"San Francisco County, CA",6075,2022,X42,T40.2,13,808437,Unreliable
+"San Francisco County, CA",6075,2022,X42,T40.3,13,808437,Unreliable
+"San Francisco County, CA",6075,2022,X42,T40.4,135,808437,16.7
+"San Francisco County, CA",6075,2022,X42,T40.5,133,808437,16.5
+"San Francisco County, CA",6075,2022,X42,X42,197,808437,24.4
+"San Francisco County, CA",6075,2022,X44,T40.1,23,808437,2.8
+"San Francisco County, CA",6075,2022,X44,T40.2,17,808437,Unreliable
+"San Francisco County, CA",6075,2022,X44,T40.3,15,808437,Unreliable
+"San Francisco County, CA",6075,2022,X44,T40.4,173,808437,21.4
+"San Francisco County, CA",6075,2022,X44,T40.5,68,808437,8.4
+"San Francisco County, CA",6075,2022,X44,T42.4,28,808437,3.5
+"San Francisco County, CA",6075,2022,X44,T43.6,180,808437,22.3
+"San Francisco County, CA",6075,2022,X44,X44,212,808437,26.2
+"San Francisco County, CA",6075,2023,X41,T43.6,52,808988,6.4
+"San Francisco County, CA",6075,2023,X41,X41,54,808988,6.7
+"San Francisco County, CA",6075,2023,X42,T40.1,16,808988,Unreliable
+"San Francisco County, CA",6075,2023,X42,T40.2,10,808988,Unreliable
+"San Francisco County, CA",6075,2023,X42,T40.4,216,808988,26.7
+"San Francisco County, CA",6075,2023,X42,T40.5,179,808988,22.1
+"San Francisco County, CA",6075,2023,X42,X42,261,808988,32.3
+"San Francisco County, CA",6075,2023,X44,T40.1,16,808988,Unreliable
+"San Francisco County, CA",6075,2023,X44,T40.2,20,808988,2.5
+"San Francisco County, CA",6075,2023,X44,T40.3,12,808988,Unreliable
+"San Francisco County, CA",6075,2023,X44,T40.4,246,808988,30.4
+"San Francisco County, CA",6075,2023,X44,T40.5,119,808988,14.7
+"San Francisco County, CA",6075,2023,X44,T42.4,36,808988,4.5
+"San Francisco County, CA",6075,2023,X44,T43.6,238,808988,29.4
+"San Francisco County, CA",6075,2023,X44,X44,283,808988,35.0
+"San Joaquin County, CA",6077,2018,X41,T43.6,54,752660,7.2
+"San Joaquin County, CA",6077,2018,X41,X41,57,752660,7.6
+"San Joaquin County, CA",6077,2018,X42,T40.3,10,752660,Unreliable
+"San Joaquin County, CA",6077,2018,X42,X42,20,752660,2.7
+"San Joaquin County, CA",6077,2018,X44,X44,35,752660,4.7
+"San Joaquin County, CA",6077,2019,X41,T43.6,58,762148,7.6
+"San Joaquin County, CA",6077,2019,X41,X41,60,762148,7.9
+"San Joaquin County, CA",6077,2019,X42,T40.5,13,762148,Unreliable
+"San Joaquin County, CA",6077,2019,X42,X42,24,762148,3.1
+"San Joaquin County, CA",6077,2019,X44,T43.6,12,762148,Unreliable
+"San Joaquin County, CA",6077,2019,X44,X44,35,762148,4.6
+"San Joaquin County, CA",6077,2020,X41,T43.6,54,767967,7.0
+"San Joaquin County, CA",6077,2020,X41,X41,54,767967,7.0
+"San Joaquin County, CA",6077,2020,X42,T40.4,31,767967,4.0
+"San Joaquin County, CA",6077,2020,X42,T40.5,21,767967,2.7
+"San Joaquin County, CA",6077,2020,X42,X42,45,767967,5.9
+"San Joaquin County, CA",6077,2020,X44,T40.2,22,767967,2.9
+"San Joaquin County, CA",6077,2020,X44,T40.4,17,767967,Unreliable
+"San Joaquin County, CA",6077,2020,X44,T42.4,13,767967,Unreliable
+"San Joaquin County, CA",6077,2020,X44,T43.6,35,767967,4.6
+"San Joaquin County, CA",6077,2020,X44,X44,51,767967,6.6
+"San Joaquin County, CA",6077,2021,X41,T43.6,54,789410,6.8
+"San Joaquin County, CA",6077,2021,X41,X41,54,789410,6.8
+"San Joaquin County, CA",6077,2021,X42,T40.4,52,789410,6.6
+"San Joaquin County, CA",6077,2021,X42,T40.5,19,789410,Unreliable
+"San Joaquin County, CA",6077,2021,X42,X42,70,789410,8.9
+"San Joaquin County, CA",6077,2021,X44,T40.2,17,789410,Unreliable
+"San Joaquin County, CA",6077,2021,X44,T40.4,52,789410,6.6
+"San Joaquin County, CA",6077,2021,X44,T42.4,12,789410,Unreliable
+"San Joaquin County, CA",6077,2021,X44,T43.6,64,789410,8.1
+"San Joaquin County, CA",6077,2021,X44,X44,80,789410,10.1
+"San Joaquin County, CA",6077,2022,X41,T43.6,41,793229,5.2
+"San Joaquin County, CA",6077,2022,X41,X41,44,793229,5.5
+"San Joaquin County, CA",6077,2022,X42,T40.4,45,793229,5.7
+"San Joaquin County, CA",6077,2022,X42,T40.5,12,793229,Unreliable
+"San Joaquin County, CA",6077,2022,X42,X42,58,793229,7.3
+"San Joaquin County, CA",6077,2022,X44,T40.2,14,793229,Unreliable
+"San Joaquin County, CA",6077,2022,X44,T40.4,49,793229,6.2
+"San Joaquin County, CA",6077,2022,X44,T43.6,54,793229,6.8
+"San Joaquin County, CA",6077,2022,X44,X44,64,793229,8.1
+"San Joaquin County, CA",6077,2023,X41,T43.6,33,800965,4.1
+"San Joaquin County, CA",6077,2023,X41,X41,37,800965,4.6
+"San Joaquin County, CA",6077,2023,X42,T40.4,77,800965,9.6
+"San Joaquin County, CA",6077,2023,X42,T40.5,23,800965,2.9
+"San Joaquin County, CA",6077,2023,X42,X42,89,800965,11.1
+"San Joaquin County, CA",6077,2023,X44,T40.2,18,800965,Unreliable
+"San Joaquin County, CA",6077,2023,X44,T40.4,99,800965,12.4
+"San Joaquin County, CA",6077,2023,X44,T40.5,18,800965,Unreliable
+"San Joaquin County, CA",6077,2023,X44,T42.4,14,800965,Unreliable
+"San Joaquin County, CA",6077,2023,X44,T43.6,98,800965,12.2
+"San Joaquin County, CA",6077,2023,X44,X44,114,800965,14.2
+"San Luis Obispo County, CA",6079,2018,X42,X42,12,284010,Unreliable
+"San Luis Obispo County, CA",6079,2018,X44,X44,19,284010,Unreliable
+"San Luis Obispo County, CA",6079,2019,X41,T43.6,14,283111,Unreliable
+"San Luis Obispo County, CA",6079,2019,X41,X41,16,283111,Unreliable
+"San Luis Obispo County, CA",6079,2019,X42,X42,11,283111,Unreliable
+"San Luis Obispo County, CA",6079,2019,X44,X44,20,283111,7.1
+"San Luis Obispo County, CA",6079,2020,X41,T43.6,18,282249,Unreliable
+"San Luis Obispo County, CA",6079,2020,X41,X41,19,282249,Unreliable
+"San Luis Obispo County, CA",6079,2020,X42,T40.4,11,282249,Unreliable
+"San Luis Obispo County, CA",6079,2020,X42,X42,16,282249,Unreliable
+"San Luis Obispo County, CA",6079,2020,X44,T40.2,17,282249,Unreliable
+"San Luis Obispo County, CA",6079,2020,X44,T40.4,21,282249,7.4
+"San Luis Obispo County, CA",6079,2020,X44,T43.6,30,282249,10.6
+"San Luis Obispo County, CA",6079,2020,X44,X44,43,282249,15.2
+"San Luis Obispo County, CA",6079,2021,X41,T43.6,22,283159,7.8
+"San Luis Obispo County, CA",6079,2021,X41,X41,22,283159,7.8
+"San Luis Obispo County, CA",6079,2021,X42,T40.4,17,283159,Unreliable
+"San Luis Obispo County, CA",6079,2021,X42,X42,22,283159,7.8
+"San Luis Obispo County, CA",6079,2021,X44,T40.2,14,283159,Unreliable
+"San Luis Obispo County, CA",6079,2021,X44,T40.4,40,283159,14.1
+"San Luis Obispo County, CA",6079,2021,X44,T42.4,14,283159,Unreliable
+"San Luis Obispo County, CA",6079,2021,X44,T43.6,33,283159,11.7
+"San Luis Obispo County, CA",6079,2021,X44,X44,64,283159,22.6
+"San Luis Obispo County, CA",6079,2022,X41,X41,12,282013,Unreliable
+"San Luis Obispo County, CA",6079,2022,X42,T40.4,19,282013,Unreliable
+"San Luis Obispo County, CA",6079,2022,X42,X42,24,282013,8.5
+"San Luis Obispo County, CA",6079,2022,X44,T40.4,43,282013,15.2
+"San Luis Obispo County, CA",6079,2022,X44,T42.4,10,282013,Unreliable
+"San Luis Obispo County, CA",6079,2022,X44,T43.6,35,282013,12.4
+"San Luis Obispo County, CA",6079,2022,X44,X44,45,282013,16.0
+"San Luis Obispo County, CA",6079,2023,X41,T43.6,13,281639,Unreliable
+"San Luis Obispo County, CA",6079,2023,X41,X41,14,281639,Unreliable
+"San Luis Obispo County, CA",6079,2023,X42,T40.4,20,281639,7.1
+"San Luis Obispo County, CA",6079,2023,X42,X42,26,281639,9.2
+"San Luis Obispo County, CA",6079,2023,X44,T40.2,11,281639,Unreliable
+"San Luis Obispo County, CA",6079,2023,X44,T40.4,47,281639,16.7
+"San Luis Obispo County, CA",6079,2023,X44,T43.6,45,281639,16.0
+"San Luis Obispo County, CA",6079,2023,X44,X44,55,281639,19.5
+"San Mateo County, CA",6081,2018,X41,T43.6,10,769545,Unreliable
+"San Mateo County, CA",6081,2018,X41,X41,13,769545,Unreliable
+"San Mateo County, CA",6081,2018,X42,T40.2,12,769545,Unreliable
+"San Mateo County, CA",6081,2018,X42,X42,18,769545,Unreliable
+"San Mateo County, CA",6081,2018,X44,T40.2,12,769545,Unreliable
+"San Mateo County, CA",6081,2018,X44,X44,24,769545,3.1
+"San Mateo County, CA",6081,2019,X41,T43.6,14,766573,Unreliable
+"San Mateo County, CA",6081,2019,X41,X41,15,766573,Unreliable
+"San Mateo County, CA",6081,2019,X42,T40.4,21,766573,2.7
+"San Mateo County, CA",6081,2019,X42,T40.5,16,766573,Unreliable
+"San Mateo County, CA",6081,2019,X42,X42,38,766573,5.0
+"San Mateo County, CA",6081,2019,X44,T40.2,16,766573,Unreliable
+"San Mateo County, CA",6081,2019,X44,T40.4,18,766573,Unreliable
+"San Mateo County, CA",6081,2019,X44,T42.4,10,766573,Unreliable
+"San Mateo County, CA",6081,2019,X44,T43.6,15,766573,Unreliable
+"San Mateo County, CA",6081,2019,X44,X44,39,766573,5.1
+"San Mateo County, CA",6081,2020,X41,T43.6,23,758308,3.0
+"San Mateo County, CA",6081,2020,X41,X41,23,758308,3.0
+"San Mateo County, CA",6081,2020,X42,T40.4,31,758308,4.1
+"San Mateo County, CA",6081,2020,X42,T40.5,13,758308,Unreliable
+"San Mateo County, CA",6081,2020,X42,X42,40,758308,5.3
+"San Mateo County, CA",6081,2020,X44,T40.2,15,758308,Unreliable
+"San Mateo County, CA",6081,2020,X44,T40.4,29,758308,3.8
+"San Mateo County, CA",6081,2020,X44,T42.4,17,758308,Unreliable
+"San Mateo County, CA",6081,2020,X44,T43.6,26,758308,3.4
+"San Mateo County, CA",6081,2020,X44,X44,48,758308,6.3
+"San Mateo County, CA",6081,2021,X41,T43.6,35,737888,4.7
+"San Mateo County, CA",6081,2021,X41,X41,37,737888,5.0
+"San Mateo County, CA",6081,2021,X42,T40.4,31,737888,4.2
+"San Mateo County, CA",6081,2021,X42,T40.5,20,737888,2.7
+"San Mateo County, CA",6081,2021,X42,X42,41,737888,5.6
+"San Mateo County, CA",6081,2021,X44,T40.4,43,737888,5.8
+"San Mateo County, CA",6081,2021,X44,T40.5,12,737888,Unreliable
+"San Mateo County, CA",6081,2021,X44,T42.4,12,737888,Unreliable
+"San Mateo County, CA",6081,2021,X44,T43.6,43,737888,5.8
+"San Mateo County, CA",6081,2021,X44,X44,57,737888,7.7
+"San Mateo County, CA",6081,2022,X41,T43.6,14,729181,Unreliable
+"San Mateo County, CA",6081,2022,X41,X41,17,729181,Unreliable
+"San Mateo County, CA",6081,2022,X42,T40.4,32,729181,4.4
+"San Mateo County, CA",6081,2022,X42,T40.5,10,729181,Unreliable
+"San Mateo County, CA",6081,2022,X42,X42,37,729181,5.1
+"San Mateo County, CA",6081,2022,X44,T40.2,13,729181,Unreliable
+"San Mateo County, CA",6081,2022,X44,T40.4,36,729181,4.9
+"San Mateo County, CA",6081,2022,X44,T40.5,12,729181,Unreliable
+"San Mateo County, CA",6081,2022,X44,T42.4,10,729181,Unreliable
+"San Mateo County, CA",6081,2022,X44,T43.6,24,729181,3.3
+"San Mateo County, CA",6081,2022,X44,X44,47,729181,6.4
+"San Mateo County, CA",6081,2023,X41,T43.6,17,726353,Unreliable
+"San Mateo County, CA",6081,2023,X41,X41,18,726353,Unreliable
+"San Mateo County, CA",6081,2023,X42,T40.4,31,726353,4.3
+"San Mateo County, CA",6081,2023,X42,T40.5,13,726353,Unreliable
+"San Mateo County, CA",6081,2023,X42,X42,37,726353,5.1
+"San Mateo County, CA",6081,2023,X44,T40.4,43,726353,5.9
+"San Mateo County, CA",6081,2023,X44,T42.4,15,726353,Unreliable
+"San Mateo County, CA",6081,2023,X44,T43.6,40,726353,5.5
+"San Mateo County, CA",6081,2023,X44,X44,54,726353,7.4
+"Santa Barbara County, CA",6083,2018,X41,T43.6,10,446527,Unreliable
+"Santa Barbara County, CA",6083,2018,X41,X41,12,446527,Unreliable
+"Santa Barbara County, CA",6083,2018,X42,X42,20,446527,4.5
+"Santa Barbara County, CA",6083,2018,X44,T43.6,10,446527,Unreliable
+"Santa Barbara County, CA",6083,2018,X44,X44,30,446527,6.7
+"Santa Barbara County, CA",6083,2019,X41,T43.6,15,446499,Unreliable
+"Santa Barbara County, CA",6083,2019,X41,X41,15,446499,Unreliable
+"Santa Barbara County, CA",6083,2019,X42,T40.4,14,446499,Unreliable
+"Santa Barbara County, CA",6083,2019,X42,X42,20,446499,4.5
+"Santa Barbara County, CA",6083,2019,X44,X44,38,446499,8.5
+"Santa Barbara County, CA",6083,2020,X41,T43.6,13,444766,Unreliable
+"Santa Barbara County, CA",6083,2020,X41,X41,15,444766,Unreliable
+"Santa Barbara County, CA",6083,2020,X42,X42,17,444766,Unreliable
+"Santa Barbara County, CA",6083,2020,X44,X44,51,444766,11.5
+"Santa Barbara County, CA",6083,2021,X41,T43.6,12,446475,Unreliable
+"Santa Barbara County, CA",6083,2021,X41,X41,13,446475,Unreliable
+"Santa Barbara County, CA",6083,2021,X42,T40.4,22,446475,4.9
+"Santa Barbara County, CA",6083,2021,X42,X42,31,446475,6.9
+"Santa Barbara County, CA",6083,2021,X44,T40.4,11,446475,Unreliable
+"Santa Barbara County, CA",6083,2021,X44,T43.6,17,446475,Unreliable
+"Santa Barbara County, CA",6083,2021,X44,X44,76,446475,17.0
+"Santa Barbara County, CA",6083,2022,X42,T40.4,22,443837,5.0
+"Santa Barbara County, CA",6083,2022,X42,X42,26,443837,5.9
+"Santa Barbara County, CA",6083,2022,X44,T40.4,19,443837,Unreliable
+"Santa Barbara County, CA",6083,2022,X44,T43.6,15,443837,Unreliable
+"Santa Barbara County, CA",6083,2022,X44,X44,90,443837,20.3
+"Santa Barbara County, CA",6083,2023,X41,T43.6,18,441257,Unreliable
+"Santa Barbara County, CA",6083,2023,X41,X41,20,441257,4.5
+"Santa Barbara County, CA",6083,2023,X42,T40.4,22,441257,5.0
+"Santa Barbara County, CA",6083,2023,X42,X42,30,441257,6.8
+"Santa Barbara County, CA",6083,2023,X44,T40.4,29,441257,6.6
+"Santa Barbara County, CA",6083,2023,X44,T43.6,28,441257,6.3
+"Santa Barbara County, CA",6083,2023,X44,X44,88,441257,19.9
+"Santa Clara County, CA",6085,2018,X41,T43.6,76,1937570,3.9
+"Santa Clara County, CA",6085,2018,X41,X41,83,1937570,4.3
+"Santa Clara County, CA",6085,2018,X42,X42,13,1937570,Unreliable
+"Santa Clara County, CA",6085,2018,X44,T40.1,15,1937570,Unreliable
+"Santa Clara County, CA",6085,2018,X44,T40.2,23,1937570,1.2
+"Santa Clara County, CA",6085,2018,X44,T42.4,18,1937570,Unreliable
+"Santa Clara County, CA",6085,2018,X44,T43.6,27,1937570,1.4
+"Santa Clara County, CA",6085,2018,X44,X44,51,1937570,2.6
+"Santa Clara County, CA",6085,2018,X64,X64,12,1937570,Unreliable
+"Santa Clara County, CA",6085,2019,X41,T43.6,75,1927852,3.9
+"Santa Clara County, CA",6085,2019,X41,X41,81,1927852,4.2
+"Santa Clara County, CA",6085,2019,X42,T40.1,11,1927852,Unreliable
+"Santa Clara County, CA",6085,2019,X42,T40.5,14,1927852,Unreliable
+"Santa Clara County, CA",6085,2019,X42,X42,32,1927852,1.7
+"Santa Clara County, CA",6085,2019,X44,T40.1,29,1927852,1.5
+"Santa Clara County, CA",6085,2019,X44,T40.2,11,1927852,Unreliable
+"Santa Clara County, CA",6085,2019,X44,T40.4,16,1927852,Unreliable
+"Santa Clara County, CA",6085,2019,X44,T42.4,20,1927852,1.0
+"Santa Clara County, CA",6085,2019,X44,T43.6,43,1927852,2.2
+"Santa Clara County, CA",6085,2019,X44,X44,69,1927852,3.6
+"Santa Clara County, CA",6085,2019,X64,X64,16,1927852,Unreliable
+"Santa Clara County, CA",6085,2020,X41,T43.6,99,1907105,5.2
+"Santa Clara County, CA",6085,2020,X41,X41,108,1907105,5.7
+"Santa Clara County, CA",6085,2020,X42,T40.1,11,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X42,T40.2,14,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X42,T40.4,49,1907105,2.6
+"Santa Clara County, CA",6085,2020,X42,T40.5,19,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X42,X42,70,1907105,3.7
+"Santa Clara County, CA",6085,2020,X44,T40.1,16,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X44,T40.2,19,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X44,T40.4,41,1907105,2.1
+"Santa Clara County, CA",6085,2020,X44,T40.5,13,1907105,Unreliable
+"Santa Clara County, CA",6085,2020,X44,T42.4,22,1907105,1.2
+"Santa Clara County, CA",6085,2020,X44,T43.6,65,1907105,3.4
+"Santa Clara County, CA",6085,2020,X44,X44,93,1907105,4.9
+"Santa Clara County, CA",6085,2020,X64,X64,12,1907105,Unreliable
+"Santa Clara County, CA",6085,2021,X41,T43.6,103,1885508,5.5
+"Santa Clara County, CA",6085,2021,X41,X41,106,1885508,5.6
+"Santa Clara County, CA",6085,2021,X42,T40.4,50,1885508,2.7
+"Santa Clara County, CA",6085,2021,X42,T40.5,20,1885508,1.1
+"Santa Clara County, CA",6085,2021,X42,X42,68,1885508,3.6
+"Santa Clara County, CA",6085,2021,X44,T40.1,12,1885508,Unreliable
+"Santa Clara County, CA",6085,2021,X44,T40.2,15,1885508,Unreliable
+"Santa Clara County, CA",6085,2021,X44,T40.4,75,1885508,4.0
+"Santa Clara County, CA",6085,2021,X44,T40.5,14,1885508,Unreliable
+"Santa Clara County, CA",6085,2021,X44,T42.4,26,1885508,1.4
+"Santa Clara County, CA",6085,2021,X44,T43.6,87,1885508,4.6
+"Santa Clara County, CA",6085,2021,X44,X44,119,1885508,6.3
+"Santa Clara County, CA",6085,2022,X41,T43.6,123,1870945,6.6
+"Santa Clara County, CA",6085,2022,X41,X41,127,1870945,6.8
+"Santa Clara County, CA",6085,2022,X42,T40.4,39,1870945,2.1
+"Santa Clara County, CA",6085,2022,X42,T40.5,20,1870945,1.1
+"Santa Clara County, CA",6085,2022,X42,X42,57,1870945,3.0
+"Santa Clara County, CA",6085,2022,X44,T40.2,23,1870945,1.2
+"Santa Clara County, CA",6085,2022,X44,T40.4,90,1870945,4.8
+"Santa Clara County, CA",6085,2022,X44,T40.5,13,1870945,Unreliable
+"Santa Clara County, CA",6085,2022,X44,T42.4,35,1870945,1.9
+"Santa Clara County, CA",6085,2022,X44,T43.6,84,1870945,4.5
+"Santa Clara County, CA",6085,2022,X44,X44,127,1870945,6.8
+"Santa Clara County, CA",6085,2022,X64,X64,20,1870945,1.1
+"Santa Clara County, CA",6085,2022,Y14,Y14,13,1870945,Unreliable
+"Santa Clara County, CA",6085,2023,X41,T43.6,99,1877592,5.3
+"Santa Clara County, CA",6085,2023,X41,X41,103,1877592,5.5
+"Santa Clara County, CA",6085,2023,X42,T40.2,10,1877592,Unreliable
+"Santa Clara County, CA",6085,2023,X42,T40.4,57,1877592,3.0
+"Santa Clara County, CA",6085,2023,X42,T40.5,25,1877592,1.3
+"Santa Clara County, CA",6085,2023,X42,X42,77,1877592,4.1
+"Santa Clara County, CA",6085,2023,X44,T40.1,10,1877592,Unreliable
+"Santa Clara County, CA",6085,2023,X44,T40.2,16,1877592,Unreliable
+"Santa Clara County, CA",6085,2023,X44,T40.4,119,1877592,6.3
+"Santa Clara County, CA",6085,2023,X44,T40.5,16,1877592,Unreliable
+"Santa Clara County, CA",6085,2023,X44,T42.4,14,1877592,Unreliable
+"Santa Clara County, CA",6085,2023,X44,T43.6,119,1877592,6.3
+"Santa Clara County, CA",6085,2023,X44,X44,149,1877592,7.9
+"Santa Clara County, CA",6085,2023,X64,X64,10,1877592,Unreliable
+"Santa Cruz County, CA",6087,2018,X44,X44,21,274255,7.7
+"Santa Cruz County, CA",6087,2019,X41,T43.6,12,273213,Unreliable
+"Santa Cruz County, CA",6087,2019,X41,X41,13,273213,Unreliable
+"Santa Cruz County, CA",6087,2019,X44,T40.1,11,273213,Unreliable
+"Santa Cruz County, CA",6087,2019,X44,T43.6,13,273213,Unreliable
+"Santa Cruz County, CA",6087,2019,X44,X44,22,273213,8.1
+"Santa Cruz County, CA",6087,2020,X42,X42,11,269925,Unreliable
+"Santa Cruz County, CA",6087,2020,X44,T43.6,12,269925,Unreliable
+"Santa Cruz County, CA",6087,2020,X44,X44,32,269925,11.9
+"Santa Cruz County, CA",6087,2021,X41,T43.6,22,267792,8.2
+"Santa Cruz County, CA",6087,2021,X41,X41,24,267792,9.0
+"Santa Cruz County, CA",6087,2021,X42,X42,16,267792,Unreliable
+"Santa Cruz County, CA",6087,2021,X44,T40.4,18,267792,Unreliable
+"Santa Cruz County, CA",6087,2021,X44,T43.6,18,267792,Unreliable
+"Santa Cruz County, CA",6087,2021,X44,X44,37,267792,13.8
+"Santa Cruz County, CA",6087,2022,X41,X41,10,264370,Unreliable
+"Santa Cruz County, CA",6087,2022,X42,T40.4,20,264370,7.6
+"Santa Cruz County, CA",6087,2022,X42,X42,25,264370,9.5
+"Santa Cruz County, CA",6087,2022,X44,T40.4,43,264370,16.3
+"Santa Cruz County, CA",6087,2022,X44,T43.6,38,264370,14.4
+"Santa Cruz County, CA",6087,2022,X44,X44,50,264370,18.9
+"Santa Cruz County, CA",6087,2023,X41,T43.6,13,261547,Unreliable
+"Santa Cruz County, CA",6087,2023,X41,X41,14,261547,Unreliable
+"Santa Cruz County, CA",6087,2023,X42,T40.4,29,261547,11.1
+"Santa Cruz County, CA",6087,2023,X42,X42,33,261547,12.6
+"Santa Cruz County, CA",6087,2023,X44,T40.4,73,261547,27.9
+"Santa Cruz County, CA",6087,2023,X44,T42.4,12,261547,Unreliable
+"Santa Cruz County, CA",6087,2023,X44,T43.6,67,261547,25.6
+"Santa Cruz County, CA",6087,2023,X44,X44,81,261547,31.0
+"Shasta County, CA",6089,2018,X41,T43.6,20,180040,11.1
+"Shasta County, CA",6089,2018,X41,X41,20,180040,11.1
+"Shasta County, CA",6089,2019,X41,T43.6,14,180080,Unreliable
+"Shasta County, CA",6089,2019,X41,X41,15,180080,Unreliable
+"Shasta County, CA",6089,2020,X41,T43.6,13,179027,Unreliable
+"Shasta County, CA",6089,2020,X41,X41,13,179027,Unreliable
+"Shasta County, CA",6089,2020,X42,X42,10,179027,Unreliable
+"Shasta County, CA",6089,2020,X44,T40.1,10,179027,Unreliable
+"Shasta County, CA",6089,2020,X44,T43.6,12,179027,Unreliable
+"Shasta County, CA",6089,2020,X44,X44,18,179027,Unreliable
+"Shasta County, CA",6089,2021,X41,T43.6,18,182139,Unreliable
+"Shasta County, CA",6089,2021,X41,X41,18,182139,Unreliable
+"Shasta County, CA",6089,2021,X42,T40.4,28,182139,15.4
+"Shasta County, CA",6089,2021,X42,X42,33,182139,18.1
+"Shasta County, CA",6089,2021,X44,T40.4,14,182139,Unreliable
+"Shasta County, CA",6089,2021,X44,T43.6,16,182139,Unreliable
+"Shasta County, CA",6089,2021,X44,X44,20,182139,11.0
+"Shasta County, CA",6089,2022,X41,T43.6,13,180930,Unreliable
+"Shasta County, CA",6089,2022,X41,X41,14,180930,Unreliable
+"Shasta County, CA",6089,2022,X42,T40.4,26,180930,14.4
+"Shasta County, CA",6089,2022,X42,X42,33,180930,18.2
+"Shasta County, CA",6089,2022,X44,X44,12,180930,Unreliable
+"Shasta County, CA",6089,2023,X42,T40.4,56,180366,31.0
+"Shasta County, CA",6089,2023,X42,X42,60,180366,33.3
+"Shasta County, CA",6089,2023,X44,T40.4,10,180366,Unreliable
+"Shasta County, CA",6089,2023,X44,X44,11,180366,Unreliable
+"Siskiyou County, CA",6093,2022,X42,T40.4,10,43660,Unreliable
+"Siskiyou County, CA",6093,2022,X42,X42,12,43660,Unreliable
+"Solano County, CA",6095,2018,X41,T43.6,26,446610,5.8
+"Solano County, CA",6095,2018,X41,X41,26,446610,5.8
+"Solano County, CA",6095,2018,X42,X42,16,446610,Unreliable
+"Solano County, CA",6095,2018,X44,X44,29,446610,6.5
+"Solano County, CA",6095,2019,X41,T43.6,21,447643,4.7
+"Solano County, CA",6095,2019,X41,X41,26,447643,5.8
+"Solano County, CA",6095,2019,X42,X42,18,447643,Unreliable
+"Solano County, CA",6095,2019,X44,T40.4,11,447643,Unreliable
+"Solano County, CA",6095,2019,X44,T43.6,15,447643,Unreliable
+"Solano County, CA",6095,2019,X44,X44,24,447643,5.4
+"Solano County, CA",6095,2020,X41,T43.6,18,446935,Unreliable
+"Solano County, CA",6095,2020,X41,X41,19,446935,Unreliable
+"Solano County, CA",6095,2020,X42,T40.4,17,446935,Unreliable
+"Solano County, CA",6095,2020,X42,X42,26,446935,5.8
+"Solano County, CA",6095,2020,X44,T40.4,10,446935,Unreliable
+"Solano County, CA",6095,2020,X44,T43.6,16,446935,Unreliable
+"Solano County, CA",6095,2020,X44,X44,29,446935,6.5
+"Solano County, CA",6095,2021,X41,T43.6,30,451716,6.6
+"Solano County, CA",6095,2021,X41,X41,34,451716,7.5
+"Solano County, CA",6095,2021,X42,T40.4,21,451716,4.6
+"Solano County, CA",6095,2021,X42,X42,34,451716,7.5
+"Solano County, CA",6095,2021,X44,T40.4,18,451716,Unreliable
+"Solano County, CA",6095,2021,X44,T43.6,20,451716,4.4
+"Solano County, CA",6095,2021,X44,X44,47,451716,10.4
+"Solano County, CA",6095,2022,X41,T43.6,28,448747,6.2
+"Solano County, CA",6095,2022,X41,X41,28,448747,6.2
+"Solano County, CA",6095,2022,X42,T40.4,32,448747,7.1
+"Solano County, CA",6095,2022,X42,X42,41,448747,9.1
+"Solano County, CA",6095,2022,X44,T40.4,29,448747,6.5
+"Solano County, CA",6095,2022,X44,T43.6,33,448747,7.4
+"Solano County, CA",6095,2022,X44,X44,61,448747,13.6
+"Solano County, CA",6095,2023,X41,T43.6,32,449218,7.1
+"Solano County, CA",6095,2023,X41,X41,33,449218,7.3
+"Solano County, CA",6095,2023,X42,T40.4,24,449218,5.3
+"Solano County, CA",6095,2023,X42,T40.5,10,449218,Unreliable
+"Solano County, CA",6095,2023,X42,X42,34,449218,7.6
+"Solano County, CA",6095,2023,X44,T40.4,38,449218,8.5
+"Solano County, CA",6095,2023,X44,T43.6,36,449218,8.0
+"Solano County, CA",6095,2023,X44,X44,67,449218,14.9
+"Sonoma County, CA",6097,2018,X41,T43.6,12,499942,Unreliable
+"Sonoma County, CA",6097,2018,X41,X41,15,499942,Unreliable
+"Sonoma County, CA",6097,2018,X42,X42,15,499942,Unreliable
+"Sonoma County, CA",6097,2018,X44,T40.1,16,499942,Unreliable
+"Sonoma County, CA",6097,2018,X44,T40.4,15,499942,Unreliable
+"Sonoma County, CA",6097,2018,X44,T42.4,14,499942,Unreliable
+"Sonoma County, CA",6097,2018,X44,T43.6,22,499942,4.4
+"Sonoma County, CA",6097,2018,X44,X44,40,499942,8.0
+"Sonoma County, CA",6097,2019,X41,T43.6,12,494336,Unreliable
+"Sonoma County, CA",6097,2019,X41,X41,12,494336,Unreliable
+"Sonoma County, CA",6097,2019,X42,T40.4,16,494336,Unreliable
+"Sonoma County, CA",6097,2019,X42,X42,24,494336,4.9
+"Sonoma County, CA",6097,2019,X44,T40.1,11,494336,Unreliable
+"Sonoma County, CA",6097,2019,X44,T40.2,10,494336,Unreliable
+"Sonoma County, CA",6097,2019,X44,T40.4,26,494336,5.3
+"Sonoma County, CA",6097,2019,X44,T43.6,24,494336,4.9
+"Sonoma County, CA",6097,2019,X44,X44,48,494336,9.7
+"Sonoma County, CA",6097,2020,X41,T43.6,20,489819,4.1
+"Sonoma County, CA",6097,2020,X41,X41,21,489819,4.3
+"Sonoma County, CA",6097,2020,X42,T40.4,39,489819,8.0
+"Sonoma County, CA",6097,2020,X42,X42,40,489819,8.2
+"Sonoma County, CA",6097,2020,X44,T40.2,19,489819,Unreliable
+"Sonoma County, CA",6097,2020,X44,T40.4,63,489819,12.9
+"Sonoma County, CA",6097,2020,X44,T40.5,10,489819,Unreliable
+"Sonoma County, CA",6097,2020,X44,T42.4,26,489819,5.3
+"Sonoma County, CA",6097,2020,X44,T43.6,49,489819,10.0
+"Sonoma County, CA",6097,2020,X44,X44,77,489819,15.7
+"Sonoma County, CA",6097,2021,X41,T43.6,19,485887,Unreliable
+"Sonoma County, CA",6097,2021,X41,X41,19,485887,Unreliable
+"Sonoma County, CA",6097,2021,X42,T40.4,44,485887,9.1
+"Sonoma County, CA",6097,2021,X42,X42,49,485887,10.1
+"Sonoma County, CA",6097,2021,X44,T40.4,64,485887,13.2
+"Sonoma County, CA",6097,2021,X44,T42.4,12,485887,Unreliable
+"Sonoma County, CA",6097,2021,X44,T43.6,57,485887,11.7
+"Sonoma County, CA",6097,2021,X44,X44,77,485887,15.8
+"Sonoma County, CA",6097,2022,X41,T43.6,10,482650,Unreliable
+"Sonoma County, CA",6097,2022,X41,X41,11,482650,Unreliable
+"Sonoma County, CA",6097,2022,X42,T40.4,30,482650,6.2
+"Sonoma County, CA",6097,2022,X42,X42,33,482650,6.8
+"Sonoma County, CA",6097,2022,X44,T40.4,57,482650,11.8
+"Sonoma County, CA",6097,2022,X44,T42.4,14,482650,Unreliable
+"Sonoma County, CA",6097,2022,X44,T43.6,53,482650,11.0
+"Sonoma County, CA",6097,2022,X44,X44,66,482650,13.7
+"Sonoma County, CA",6097,2023,X41,T43.6,15,481812,Unreliable
+"Sonoma County, CA",6097,2023,X41,X41,20,481812,4.2
+"Sonoma County, CA",6097,2023,X42,T40.4,24,481812,5.0
+"Sonoma County, CA",6097,2023,X42,X42,28,481812,5.8
+"Sonoma County, CA",6097,2023,X44,T40.2,16,481812,Unreliable
+"Sonoma County, CA",6097,2023,X44,T40.4,65,481812,13.5
+"Sonoma County, CA",6097,2023,X44,T42.4,17,481812,Unreliable
+"Sonoma County, CA",6097,2023,X44,T43.6,51,481812,10.6
+"Sonoma County, CA",6097,2023,X44,X44,78,481812,16.2
+"Stanislaus County, CA",6099,2018,X41,T43.6,23,549815,4.2
+"Stanislaus County, CA",6099,2018,X41,X41,26,549815,4.7
+"Stanislaus County, CA",6099,2018,X42,X42,13,549815,Unreliable
+"Stanislaus County, CA",6099,2018,X44,T43.6,13,549815,Unreliable
+"Stanislaus County, CA",6099,2018,X44,X44,38,549815,6.9
+"Stanislaus County, CA",6099,2019,X41,T43.6,17,550660,Unreliable
+"Stanislaus County, CA",6099,2019,X41,X41,19,550660,Unreliable
+"Stanislaus County, CA",6099,2019,X42,X42,17,550660,Unreliable
+"Stanislaus County, CA",6099,2019,X44,T40.2,10,550660,Unreliable
+"Stanislaus County, CA",6099,2019,X44,T43.6,17,550660,Unreliable
+"Stanislaus County, CA",6099,2019,X44,X44,38,550660,6.9
+"Stanislaus County, CA",6099,2020,X41,T43.6,25,550081,4.5
+"Stanislaus County, CA",6099,2020,X41,X41,29,550081,5.3
+"Stanislaus County, CA",6099,2020,X42,T40.4,23,550081,4.2
+"Stanislaus County, CA",6099,2020,X42,X42,32,550081,5.8
+"Stanislaus County, CA",6099,2020,X44,T40.4,34,550081,6.2
+"Stanislaus County, CA",6099,2020,X44,T42.4,15,550081,Unreliable
+"Stanislaus County, CA",6099,2020,X44,T43.6,34,550081,6.2
+"Stanislaus County, CA",6099,2020,X44,X44,67,550081,12.2
+"Stanislaus County, CA",6099,2021,X41,T43.6,29,552999,5.2
+"Stanislaus County, CA",6099,2021,X41,X41,30,552999,5.4
+"Stanislaus County, CA",6099,2021,X42,T40.4,33,552999,6.0
+"Stanislaus County, CA",6099,2021,X42,X42,49,552999,8.9
+"Stanislaus County, CA",6099,2021,X44,T40.2,13,552999,Unreliable
+"Stanislaus County, CA",6099,2021,X44,T40.4,49,552999,8.9
+"Stanislaus County, CA",6099,2021,X44,T43.6,54,552999,9.8
+"Stanislaus County, CA",6099,2021,X44,X44,84,552999,15.2
+"Stanislaus County, CA",6099,2022,X41,T43.6,18,551275,Unreliable
+"Stanislaus County, CA",6099,2022,X41,X41,20,551275,3.6
+"Stanislaus County, CA",6099,2022,X42,T40.4,54,551275,9.8
+"Stanislaus County, CA",6099,2022,X42,T40.5,11,551275,Unreliable
+"Stanislaus County, CA",6099,2022,X42,X42,62,551275,11.2
+"Stanislaus County, CA",6099,2022,X44,T40.2,10,551275,Unreliable
+"Stanislaus County, CA",6099,2022,X44,T40.4,61,551275,11.1
+"Stanislaus County, CA",6099,2022,X44,T42.4,12,551275,Unreliable
+"Stanislaus County, CA",6099,2022,X44,T43.6,61,551275,11.1
+"Stanislaus County, CA",6099,2022,X44,X44,93,551275,16.9
+"Stanislaus County, CA",6099,2023,X41,T43.6,29,551430,5.3
+"Stanislaus County, CA",6099,2023,X41,X41,29,551430,5.3
+"Stanislaus County, CA",6099,2023,X42,T40.4,66,551430,12.0
+"Stanislaus County, CA",6099,2023,X42,T40.5,11,551430,Unreliable
+"Stanislaus County, CA",6099,2023,X42,X42,74,551430,13.4
+"Stanislaus County, CA",6099,2023,X44,T40.2,14,551430,Unreliable
+"Stanislaus County, CA",6099,2023,X44,T40.4,63,551430,11.4
+"Stanislaus County, CA",6099,2023,X44,T42.4,14,551430,Unreliable
+"Stanislaus County, CA",6099,2023,X44,T43.6,60,551430,10.9
+"Stanislaus County, CA",6099,2023,X44,X44,79,551430,14.3
+"Sutter County, CA",6101,2021,X42,T40.4,10,99063,Unreliable
+"Sutter County, CA",6101,2021,X42,X42,11,99063,Unreliable
+"Sutter County, CA",6101,2021,X44,T40.4,11,99063,Unreliable
+"Sutter County, CA",6101,2021,X44,X44,14,99063,Unreliable
+"Sutter County, CA",6101,2022,X41,T43.6,12,98503,Unreliable
+"Sutter County, CA",6101,2022,X41,X41,12,98503,Unreliable
+"Sutter County, CA",6101,2022,X42,X42,11,98503,Unreliable
+"Sutter County, CA",6101,2022,X44,T40.4,10,98503,Unreliable
+"Sutter County, CA",6101,2022,X44,T43.6,13,98503,Unreliable
+"Sutter County, CA",6101,2022,X44,X44,14,98503,Unreliable
+"Sutter County, CA",6101,2023,X44,T40.4,11,97948,Unreliable
+"Sutter County, CA",6101,2023,X44,X44,12,97948,Unreliable
+"Tehama County, CA",6103,2022,X44,T40.4,12,65245,Unreliable
+"Tehama County, CA",6103,2022,X44,T43.6,10,65245,Unreliable
+"Tehama County, CA",6103,2022,X44,X44,14,65245,Unreliable
+"Tehama County, CA",6103,2023,X41,T43.6,12,64896,Unreliable
+"Tehama County, CA",6103,2023,X41,X41,12,64896,Unreliable
+"Tehama County, CA",6103,2023,X44,T40.4,10,64896,Unreliable
+"Tehama County, CA",6103,2023,X44,T43.6,11,64896,Unreliable
+"Tehama County, CA",6103,2023,X44,X44,18,64896,Unreliable
+"Tulare County, CA",6107,2018,X41,T43.6,21,465861,4.5
+"Tulare County, CA",6107,2018,X41,X41,22,465861,4.7
+"Tulare County, CA",6107,2018,X44,X44,23,465861,4.9
+"Tulare County, CA",6107,2019,X41,T43.6,17,466195,Unreliable
+"Tulare County, CA",6107,2019,X41,X41,18,466195,Unreliable
+"Tulare County, CA",6107,2019,X42,X42,10,466195,Unreliable
+"Tulare County, CA",6107,2019,X44,X44,10,466195,Unreliable
+"Tulare County, CA",6107,2020,X41,T43.6,25,468680,5.3
+"Tulare County, CA",6107,2020,X41,X41,26,468680,5.5
+"Tulare County, CA",6107,2020,X42,T40.4,19,468680,Unreliable
+"Tulare County, CA",6107,2020,X42,X42,26,468680,5.5
+"Tulare County, CA",6107,2020,X44,T40.4,10,468680,Unreliable
+"Tulare County, CA",6107,2020,X44,T43.6,10,468680,Unreliable
+"Tulare County, CA",6107,2020,X44,X44,19,468680,Unreliable
+"Tulare County, CA",6107,2021,X41,T43.6,27,477054,5.7
+"Tulare County, CA",6107,2021,X41,X41,29,477054,6.1
+"Tulare County, CA",6107,2021,X42,T40.4,26,477054,5.5
+"Tulare County, CA",6107,2021,X42,X42,33,477054,6.9
+"Tulare County, CA",6107,2021,X44,T40.4,24,477054,5.0
+"Tulare County, CA",6107,2021,X44,T43.6,25,477054,5.2
+"Tulare County, CA",6107,2021,X44,X44,30,477054,6.3
+"Tulare County, CA",6107,2022,X41,T43.6,41,477544,8.6
+"Tulare County, CA",6107,2022,X41,X41,42,477544,8.8
+"Tulare County, CA",6107,2022,X42,T40.4,20,477544,4.2
+"Tulare County, CA",6107,2022,X42,X42,26,477544,5.4
+"Tulare County, CA",6107,2022,X44,T40.4,25,477544,5.2
+"Tulare County, CA",6107,2022,X44,T43.6,27,477544,5.7
+"Tulare County, CA",6107,2022,X44,X44,34,477544,7.1
+"Tulare County, CA",6107,2023,X41,T43.6,37,479468,7.7
+"Tulare County, CA",6107,2023,X41,X41,38,479468,7.9
+"Tulare County, CA",6107,2023,X42,T40.4,23,479468,4.8
+"Tulare County, CA",6107,2023,X42,X42,28,479468,5.8
+"Tulare County, CA",6107,2023,X44,T40.4,35,479468,7.3
+"Tulare County, CA",6107,2023,X44,T43.6,34,479468,7.1
+"Tulare County, CA",6107,2023,X44,X44,43,479468,9.0
+"Tuolumne County, CA",6109,2022,X44,X44,14,54531,Unreliable
+"Tuolumne County, CA",6109,2023,X44,X44,11,54204,Unreliable
+"Ventura County, CA",6111,2018,X41,T43.6,21,850967,2.5
+"Ventura County, CA",6111,2018,X41,X41,28,850967,3.3
+"Ventura County, CA",6111,2018,X42,T40.4,13,850967,Unreliable
+"Ventura County, CA",6111,2018,X42,X42,25,850967,2.9
+"Ventura County, CA",6111,2018,X44,T40.1,32,850967,3.8
+"Ventura County, CA",6111,2018,X44,T40.2,32,850967,3.8
+"Ventura County, CA",6111,2018,X44,T40.3,10,850967,Unreliable
+"Ventura County, CA",6111,2018,X44,T40.4,20,850967,2.4
+"Ventura County, CA",6111,2018,X44,T42.4,35,850967,4.1
+"Ventura County, CA",6111,2018,X44,T43.6,37,850967,4.3
+"Ventura County, CA",6111,2018,X44,X44,75,850967,8.8
+"Ventura County, CA",6111,2019,X41,T43.6,22,846006,2.6
+"Ventura County, CA",6111,2019,X41,X41,23,846006,2.7
+"Ventura County, CA",6111,2019,X42,T40.1,15,846006,Unreliable
+"Ventura County, CA",6111,2019,X42,T40.4,15,846006,Unreliable
+"Ventura County, CA",6111,2019,X42,X42,32,846006,3.8
+"Ventura County, CA",6111,2019,X44,T40.1,25,846006,3.0
+"Ventura County, CA",6111,2019,X44,T40.2,24,846006,2.8
+"Ventura County, CA",6111,2019,X44,T40.4,24,846006,2.8
+"Ventura County, CA",6111,2019,X44,T42.4,18,846006,Unreliable
+"Ventura County, CA",6111,2019,X44,T43.6,31,846006,3.7
+"Ventura County, CA",6111,2019,X44,X44,57,846006,6.7
+"Ventura County, CA",6111,2019,X64,X64,10,846006,Unreliable
+"Ventura County, CA",6111,2020,X41,T43.6,22,841387,2.6
+"Ventura County, CA",6111,2020,X41,X41,29,841387,3.4
+"Ventura County, CA",6111,2020,X42,T40.2,11,841387,Unreliable
+"Ventura County, CA",6111,2020,X42,T40.4,38,841387,4.5
+"Ventura County, CA",6111,2020,X42,X42,54,841387,6.4
+"Ventura County, CA",6111,2020,X44,T40.1,24,841387,2.9
+"Ventura County, CA",6111,2020,X44,T40.2,20,841387,2.4
+"Ventura County, CA",6111,2020,X44,T40.4,49,841387,5.8
+"Ventura County, CA",6111,2020,X44,T42.4,38,841387,4.5
+"Ventura County, CA",6111,2020,X44,T43.6,46,841387,5.5
+"Ventura County, CA",6111,2020,X44,X44,94,841387,11.2
+"Ventura County, CA",6111,2021,X41,T43.6,24,839784,2.9
+"Ventura County, CA",6111,2021,X41,X41,27,839784,3.2
+"Ventura County, CA",6111,2021,X42,T40.1,10,839784,Unreliable
+"Ventura County, CA",6111,2021,X42,T40.2,15,839784,Unreliable
+"Ventura County, CA",6111,2021,X42,T40.4,79,839784,9.4
+"Ventura County, CA",6111,2021,X42,T40.5,12,839784,Unreliable
+"Ventura County, CA",6111,2021,X42,X42,96,839784,11.4
+"Ventura County, CA",6111,2021,X44,T40.1,10,839784,Unreliable
+"Ventura County, CA",6111,2021,X44,T40.2,23,839784,2.7
+"Ventura County, CA",6111,2021,X44,T40.4,97,839784,11.6
+"Ventura County, CA",6111,2021,X44,T40.5,12,839784,Unreliable
+"Ventura County, CA",6111,2021,X44,T42.4,41,839784,4.9
+"Ventura County, CA",6111,2021,X44,T43.6,70,839784,8.3
+"Ventura County, CA",6111,2021,X44,X44,123,839784,14.6
+"Ventura County, CA",6111,2022,X41,T43.6,25,832605,3.0
+"Ventura County, CA",6111,2022,X41,X41,27,832605,3.2
+"Ventura County, CA",6111,2022,X42,T40.4,67,832605,8.0
+"Ventura County, CA",6111,2022,X42,X42,75,832605,9.0
+"Ventura County, CA",6111,2022,X44,T40.2,15,832605,Unreliable
+"Ventura County, CA",6111,2022,X44,T40.4,101,832605,12.1
+"Ventura County, CA",6111,2022,X44,T42.4,33,832605,4.0
+"Ventura County, CA",6111,2022,X44,T43.6,78,832605,9.4
+"Ventura County, CA",6111,2022,X44,X44,119,832605,14.3
+"Ventura County, CA",6111,2022,X64,X64,11,832605,Unreliable
+"Ventura County, CA",6111,2023,X41,T43.6,21,829590,2.5
+"Ventura County, CA",6111,2023,X41,X41,22,829590,2.7
+"Ventura County, CA",6111,2023,X42,T40.4,80,829590,9.6
+"Ventura County, CA",6111,2023,X42,T40.5,13,829590,Unreliable
+"Ventura County, CA",6111,2023,X42,X42,86,829590,10.4
+"Ventura County, CA",6111,2023,X44,T40.2,26,829590,3.1
+"Ventura County, CA",6111,2023,X44,T40.4,110,829590,13.3
+"Ventura County, CA",6111,2023,X44,T42.4,31,829590,3.7
+"Ventura County, CA",6111,2023,X44,T43.6,81,829590,9.8
+"Ventura County, CA",6111,2023,X44,X44,134,829590,16.2
+"Yolo County, CA",6113,2018,X41,T43.6,10,220408,Unreliable
+"Yolo County, CA",6113,2018,X41,X41,10,220408,Unreliable
+"Yolo County, CA",6113,2019,X41,T43.6,10,220500,Unreliable
+"Yolo County, CA",6113,2019,X41,X41,10,220500,Unreliable
+"Yolo County, CA",6113,2019,X44,X44,10,220500,Unreliable
+"Yolo County, CA",6113,2020,X41,T43.6,16,219728,Unreliable
+"Yolo County, CA",6113,2020,X41,X41,16,219728,Unreliable
+"Yolo County, CA",6113,2021,X41,T43.6,18,216986,Unreliable
+"Yolo County, CA",6113,2021,X41,X41,18,216986,Unreliable
+"Yolo County, CA",6113,2022,X41,T43.6,12,222115,Unreliable
+"Yolo County, CA",6113,2022,X41,X41,13,222115,Unreliable
+"Yolo County, CA",6113,2022,X42,T40.4,11,222115,Unreliable
+"Yolo County, CA",6113,2022,X42,X42,13,222115,Unreliable
+"Yolo County, CA",6113,2022,X44,T40.4,10,222115,Unreliable
+"Yolo County, CA",6113,2022,X44,T43.6,12,222115,Unreliable
+"Yolo County, CA",6113,2022,X44,X44,17,222115,Unreliable
+"Yolo County, CA",6113,2023,X41,T43.6,15,220544,Unreliable
+"Yolo County, CA",6113,2023,X41,X41,15,220544,Unreliable
+"Yolo County, CA",6113,2023,X44,T40.4,18,220544,Unreliable
+"Yolo County, CA",6113,2023,X44,T43.6,17,220544,Unreliable
+"Yolo County, CA",6113,2023,X44,X44,20,220544,9.1
+"Yuba County, CA",6115,2021,X44,X44,10,83421,Unreliable
+"Yuba County, CA",6115,2022,X41,T43.6,12,84310,Unreliable
+"Yuba County, CA",6115,2022,X41,X41,12,84310,Unreliable
+"Yuba County, CA",6115,2022,X44,T40.4,11,84310,Unreliable
+"Yuba County, CA",6115,2022,X44,T43.6,11,84310,Unreliable
+"Yuba County, CA",6115,2022,X44,X44,15,84310,Unreliable
+"Yuba County, CA",6115,2023,X44,T40.4,15,85722,Unreliable
+"Yuba County, CA",6115,2023,X44,T43.6,15,85722,Unreliable
+"Yuba County, CA",6115,2023,X44,X44,16,85722,Unreliable
